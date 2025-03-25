@@ -30,7 +30,6 @@ def main():
 
     results = {}
 
-    arg_lines = arg_lines[:5]
     for i, arg in enumerate(arg_lines):
         url = get_url(arg, args.type)
         try:
