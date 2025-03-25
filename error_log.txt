@@ -1,0 +1,1933 @@
+[Performance]     Randomly selected case #2 from total 4 test cases
+Throughput        141.93/s
+Data Processed    111.85KiB/s
+Error Rate        0.00%
+Latency (p99)     1964.544ms
+Latency (p90)     1650.364ms
+Latency (p75)     1182.769ms
+Latency (p50)     502.769ms
+Latency (avg)     692.623ms
+
+[Correctness]     Randomly selected case #5 from total 20 test cases
+Throughput        7.53/s
+Correctness Rate  90.27% (408/452)
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2504601841&type=retweet&phrase=delmister&hashtag=katiemorgan
+* Response code: 200 OK
+* Your result:
+Team and Account info
+1328052577	edbel45	Negrão 52 anos muito safado adorar uma pura rua sadia	RT @hq_porn_hq: 💥 #KatieMorgan teaches #AlexGrey 💦
+
+@soycaliente2014 @irinagomez60 @R_sidney_V @girls_pornx @PussySluts @Cheye77…
+775952352247291905	uykusuz8343	İnanç KSA Medya Figürleri Arap Dünyası Haberler Teknoloji Suudi Komedisi Arap Komedisi Teknoloji Haberler Medya Figürleri Haberler Suudi Komedisi Komedi	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 🔥
+
+@HDhighresporn @irinagomez60 @jeanbouffard1 @hotcamangels @excalibur1977…
+768155714313269249	LuhQuwop	Freaky 24/7 Dmme💦💦	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 🔥
+
+@HDhighresporn @irinagomez60 @jeanbouffard1 @hotcamangels @excalibur1977…
+766629649166151681	evanardi666	i'm male. ps or real sex - contact dm aja. love milf.	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 💦
+
+@soycaliente2014 @Porno_Gifs_Pics @pussy_eater699 @Jcmex27 @xDannyBoy92…
+725689613000519680	James00186279		RT @hq_porn_hq: 💥 StaciCarr  #public #fucking 🔥
+
+@irinagomez60 @naughtyxxxness @HDhighresporn @Euporn_ @SexiestAlice @TimeaFanclub…
+718174244304240642	lovelygirls200	18+ NSFW 
+AVI is the stunning @rebekah_rayne Go and follow her for hot webcam action. Must follow me for a RT.	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 💦
+
+@soycaliente2014 @Porno_Gifs_Pics @pussy_eater699 @Jcmex27 @xDannyBoy92…
+3217962384	b1a11f7612f44f2		RT @hq_porn_hq: 💥 #JadeJantzen  gets #face #creamed 💦
+
+@soycaliente2014 @TimeaFanclub @yagizin_yeri @excalibur1977 @R_sidney_V…
+2440285130	jeanbouffard1	(Big john)
+I love all sexy and sensual thing.. im working in bars!!! !!!adult only！！	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 🔥
+
+@HDhighresporn @irinagomez60 @jeanbouffard1 @hotcamangels @excalibur1977…
+1945438770	SX6YY	#Model Scout 👤 http://bit.ly/HDFreeSex ↩️ #Chaturbate | #Pornhub | #Camgasm | #Brazzers | #xHamster | #YouPorn | #Livejasmin | #RedTube | #Flirt4Free	RT @SX6YY: 100% #FREE Live Porn ↙↙↙
+
+https://t.co/gkcGFrkBw9 📺
+
+↗↗↗  @swo2212 @R_sidney_V @PornoxDia @AssReFocus @Vdsxx1…
+759702715	xDannyBoy92		RT @hq_porn_hq: 💥 #JadeJantzen  gets #face #creamed 💦
+
+@soycaliente2014 @TimeaFanclub @yagizin_yeri @excalibur1977 @R_sidney_V…
+605224529	BritBuk	(18+) #Bukkake Parties with British Style. Charming #MILFs Wearing #Cum #Facial Masks with Pride & Joy. Paysite: http://www.britbuk.com/blog/amateurfacialsuk.	RT @BritBuk: #Bukkake Dreams #Cum True! @cumcumlover @everywhere_cum @cumteam @PornoxDia @hq_porn_hq @DelMister @NaughtyRetreat https://t.c…
+* Expected result:
+Team and Account info
+1328052577	edbel45	Negrão 52 anos muito safado adorar uma pura rua sadia	RT @hq_porn_hq: 💥 #KatieMorgan teaches #AlexGrey 💦
+
+@soycaliente2014 @irinagomez60 @R_sidney_V @girls_pornx @PussySluts @Cheye77… 
+775952352247291905	uykusuz8343	İnanç KSA Medya Figürleri Arap Dünyası Haberler Teknoloji Suudi Komedisi Arap Komedisi Teknoloji Haberler Medya Figürleri Haberler Suudi Komedisi Komedi	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 🔥
+
+@HDhighresporn @irinagomez60 @jeanbouffard1 @hotcamangels @excalibur1977… 
+768155714313269249	LuhQuwop	Freaky 24/7 Dmme💦💦	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 🔥
+
+@HDhighresporn @irinagomez60 @jeanbouffard1 @hotcamangels @excalibur1977… 
+766629649166151681	evanardi666	i'm male. ps or real sex - contact dm aja. love milf.	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 💦
+
+@soycaliente2014 @Porno_Gifs_Pics @pussy_eater699 @Jcmex27 @xDannyBoy92… 
+725689613000519680	James00186279		RT @hq_porn_hq: 💥 StaciCarr  #public #fucking 🔥
+
+@irinagomez60 @naughtyxxxness @HDhighresporn @Euporn_ @SexiestAlice @TimeaFanclub… 
+718174244304240642	lovelygirls200	18+ NSFW 
+AVI is the stunning @rebekah_rayne Go and follow her for hot webcam action. Must follow me for a RT.	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 💦
+
+@soycaliente2014 @Porno_Gifs_Pics @pussy_eater699 @Jcmex27 @xDannyBoy92… 
+3217962384	b1a11f7612f44f2		RT @hq_porn_hq: 💥 #JadeJantzen  gets #face #creamed 💦
+
+@soycaliente2014 @TimeaFanclub @yagizin_yeri @excalibur1977 @R_sidney_V… 
+2440285130	jeanbouffard1	(Big john)
+I love all sexy and sensual thing.. im working in bars!!! !!!adult only！！	RT @hq_porn_hq: 💥 #JillKassidy loves #huge #cocks 🔥
+
+@HDhighresporn @irinagomez60 @jeanbouffard1 @hotcamangels @excalibur1977… 
+1945438770	SX6YY	#Model Scout 👤 http://bit.ly/HDFreeSex ↩️ #Chaturbate | #Pornhub | #Camgasm | #Brazzers | #xHamster | #YouPorn | #Livejasmin | #RedTube | #Flirt4Free	RT @SX6YY: 100% #FREE Live Porn ↙↙↙
+
+https://t.co/gkcGFrkBw9 📺
+
+↗↗↗  @swo2212 @R_sidney_V @PornoxDia @AssReFocus @Vdsxx1… 
+759702715	xDannyBoy92		RT @hq_porn_hq: 💥 #JadeJantzen  gets #face #creamed 💦
+
+@soycaliente2014 @TimeaFanclub @yagizin_yeri @excalibur1977 @R_sidney_V… 
+605224529	BritBuk	(18+) #Bukkake Parties with British Style. Charming #MILFs Wearing #Cum #Facial Masks with Pride & Joy. Paysite: http://www.britbuk.com/blog/amateurfacialsuk.	RT @BritBuk: #Bukkake Dreams #Cum True! @cumcumlover @everywhere_cum @cumteam @PornoxDia @hq_porn_hq @DelMister @NaughtyRetreat https://t.c…
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=150479272&type=retweet&phrase=cuddlemezarry%20idk&hashtag=gbvsatl
+* Response code: 200 OK
+* Your result:
+Team and Account info
+35865630	packers	The official Twitter account of the 13-time World Champion Green Bay Packers. Super Bowl Champions I, II, XXXI, XLV.	RT @packers: "We have to take care of business."
+
+@TJLang70 talks NFC Championship Game 🎥: https://t.co/dW6s5XxnXL
+
+#GBvsATL…
+220473181	cuddlemezarry_	'Whatever our souls are made of, his and mine are the same.'	RT @cuddlemezarry_: IDK WHY I CANT STOP LAUGHING 
+
+#1DonGMA http://t.co/8c3dioLpae
+* Expected result:
+Team and Account info
+35865630	packers	The official Twitter account of the 13-time World Champion Green Bay Packers. Super Bowl Champions I, II, XXXI, XLV.	RT @packers: "We have to take care of business."
+
+@TJLang70 talks NFC Championship Game 🎥: https://t.co/dW6s5XxnXL
+
+#GBvsATL… 
+220473181	cuddlemezarry_	'Whatever our souls are made of, his and mine are the same.'	RT @cuddlemezarry_: IDK WHY I CANT STOP LAUGHING 
+
+#1DonGMA http://t.co/8c3dioLpae
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2155830991&type=both&phrase=fansigning&hashtag=2016sbsdramaawards
+* Response code: 200 OK
+* Your result:
+Team and Account info
+4706787902	MoonLoversSBS	Twitter FAN account for SBS drama 달의연인 보보경심:려 'Moon Lovers (Scarlet Heart: Ryeo)'. Follow us for news and updates!!	RT @MoonLoversSBS: Lee Joon Gi and Lee Ji Eun (IU) won the Best Couple Award!!! #2016SAF연기대상 #2016SBSDramaAwards #MoonLovers ❤️❤️❤️ So…
+382750072	tokkiella01	•#YGFAMILY is here EVERYBODY SQUAlAY•Born to sarang this awesome weirdos 2ne1/BB|VIP♡BJ| @krungy21 is my boo~} i'll followback♥ ッ24/7	RT @tokkiella01: 2NE1 will be having their 2nd fansigning event on 03/30 
+#2NE1 to appear on America's Next Top Model
+Bom on ROOMMATE http:…
+304269883	krungxxi	(っ◔◡◔)っ sandara & rosé.	RT @krungxxi: I wanna see Dara's breakdance lol #COMEBACKHOME #2NE1 please win
+* Expected result:
+Team and Account info
+4706787902	MoonLoversSBS	Twitter FAN account for SBS drama 달의연인 보보경심:려 'Moon Lovers (Scarlet Heart: Ryeo)'. Follow us for news and updates!!	RT @MoonLoversSBS: Lee Joon Gi and Lee Ji Eun (IU) won the Best Couple Award!!! #2016SAF연기대상 #2016SBSDramaAwards #MoonLovers ❤️❤️❤️ So… 
+382750072	tokkiella01	•#YGFAMILY is here EVERYBODY SQUAlAY•Born to sarang this awesome weirdos 2ne1/BB|VIP♡BJ| @krungy21 is my boo~} i'll followback♥ ッ24/7	RT @tokkiella01: 2NE1 will be having their 2nd fansigning event on 03/30 
+#2NE1 to appear on America's Next Top Model
+Bom on ROOMMATE http:…
+304269883	krungxxi	(っ◔◡◔)っ sandara & rosé.	RT @krungxxi: I wanna see Dara's breakdance lol #COMEBACKHOME #2NE1 please win
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=17479949&type=retweet&phrase=iamnotyournegro%20critics&hashtag=iamnotyournegro
+* Response code: 200 OK
+* Your result:
+Team and Account info
+796784793258033152	IAmNotYourNegro	Raoul Peck envisions James Baldwin's unfinished book in #IAmNotYourNegro, a narration about race in America w/the voice of Samuel L. Jackson. In theaters 2/3.	RT @IAmNotYourNegro: Watch the trailer for James Baldwin’s #IAmNotYourNegro, the film critics are calling “essential viewing for all Ame…
+* Expected result:
+Team and Account info
+796784793258033152	IAmNotYourNegro	Raoul Peck envisions James Baldwin's unfinished book in #IAmNotYourNegro, a narration about race in America w/the voice of Samuel L. Jackson. In theaters 2/3.	RT @IAmNotYourNegro: Watch the trailer for James Baldwin’s #IAmNotYourNegro, the film critics are calling “essential viewing for all Ame… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2231286537&type=retweet&phrase=الصداقه&hashtag=الصداقه
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+504532178	maged48222	(( ماجد العيدي )) شاعر محاوره ،، اتحادي الميول ،،
+أتشرف بمتابعتكم أينما كنت ✋
+
+للتواصل (( 0590048222 ))	RT @maged48222: هناك صديق ،، لقاؤه وطن و فراقهُ وحِده !!”
+والحياة يابسه إذا لم ترطبها #الصداقه !!”
+
+💐 ............. حقيقه .............. 💐
+457798641	majed405	في المفضلة تأملات قرآنية .
+
+snapchat : majed405	RT @majed405: مرثية زوجة الشيخ محمد المنجد في ابنها #أنس_المنجد رحمه الله .
+
+اللهم اجبر مصابهم واربط على قلوبهم . http://t.co/Olbn9H7V2F
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=19102636&type=retweet&phrase=epn%20culpa%20gasolinazo&hashtag=depeñanietoyamecanse
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+82779909	hzagal	Ególatra. Obsesivo. Lector. Triglicéridos altos. Obsesivo. Chilango arrepentido. Pesimista. Obsesivo. Glotón. Hipocondríaco. Obsesivo. Novelista. Ensayista.	RT @hzagal: #DePeñaNietoYaMeCanse
+Si como dice EPN, la culpa del gasolinazo fue del sexenio anterior, ¿qué hace @JoseAMeadeK re… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=143700424&type=retweet&phrase=felizmartes%20epa%20quedan&hashtag=2017revolucióneconómica
+* Response code: 200 OK
+* Your result:
+Team and Account info
+2787237729	GJCabelloC3K	Soldado de la patria/ Gran Misión Abastecimiento Soberano/ Misión Alimentación/ Presidente de PDVAL/ #PorUnaPatriaSeguraYProductiva	RT @GJCabelloC3K: #FelizMartes. ¡Epa Obama! Te quedan 3 días en la Casa Blanca y Venezuela pa' lante, en el #2017RevoluciónEconómica…
+* Expected result:
+Team and Account info
+2787237729	GJCabelloC3K	Soldado de la patria/ Gran Misión Abastecimiento Soberano/ Misión Alimentación/ Presidente de PDVAL/ #PorUnaPatriaSeguraYProductiva	RT @GJCabelloC3K: #FelizMartes. ¡Epa Obama! Te quedan 3 días en la Casa Blanca y Venezuela pa' lante, en el #2017RevoluciónEconómica… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2483262235&type=both&phrase=brugge%20brugge&hashtag=nightlife
+* Response code: 200 OK
+* Your result:
+Team and Account info
+74443406	Juliadutta	Meet the author:
+http://www.amazon.com/Julia-Dutta/e/B00C4PXAFG	RT @Brugge_India: @Brugge_India has been nominated for the #TimesFood &amp; #Nightlife Awards 2017. Give a missed call on 01243885950…
+* Expected result:
+Team and Account info
+74443406	Juliadutta	Meet the author:
+http://www.amazon.com/Julia-Dutta/e/B00C4PXAFG	RT @Brugge_India: @Brugge_India has been nominated for the #TimesFood &amp; #Nightlife Awards 2017. Give a missed call on 01243885950… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=228995564&type=retweet&phrase=repeat&hashtag=oscars
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+5982652	KateSherrill	Academic librarian.
+#TWiBnation #KITM #TBGWT	RT @KateSherrill: AP reporter just asked A.R. Rahman to repeat his comment in Hindi for their Indian viewers, he told her that he doesn't s…
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=247855926&type=retweet&phrase=negishio%20穂乃果ちゃんお誕生日おめでとう&hashtag=中の人の凡俗な年末年始
+* Response code: 200 OK
+* Your result:
+Team and Account info
+145144333	takaratomytoys	タカラトミーの商品紹介やイベントはもちろん、楽しいことをあれこれおしらせします。みなさんのフォローをお待ちしてます！商品・サービスのお問い合わせはこちらのお客様相談室にご連絡ください⇒ http://www.takaratomy.co.jp/support/other.html	RT @takaratomytoys: 実家にあった懐かしのおもちゃシリーズ。おさなきころ、盲腸炎で苦しんでいた私は病院でこのプラモデル作るのが大好きでした（´-`）
+
+#中の人の凡俗な年末年始 https://t.co/jsJngVau7E
+817082483191619588	bonsuka555	ツイッター初心者です。レゴ好きです。よろしくお願い致します。	RT @bonsuka555: 股関節の接続をあきらめ、もともと腕にあたるボールジョイントから脚部をのばしてみた結果、小さく好みのサイズに組むことができました。
+各所なるべくメカ感を意識してちりばめました。
+今回はカラーリングもなかなか気に入ってます！
+
+#レゴ…
+2375254237	NBDRally	N.B.D.Rallyと申します。のんべんだらりとがんばります。 不束者ですがヨロシクお願い致します。YouTube：https://t.co/koCDNsCRXc Tumblr URL : http://t.co/nUeyFPMNZQ LINEスタンプ： http://t.co/Syqn9PhaiB …	RT @NBDRally: 亜礼薬！
+
+#SDガンダム https://t.co/4CGEtTtJ88
+1318576292	fugace_	フガーチェです。さわたりです。 ただのヲタクです。薄い本はメロンさんにて委託中どえす。 https://www.melonbooks.co.jp/circle/index.php?circle_id=15047 リプライは返せたり返せなかったり	RT @fugace_: ダイヤお姉ちゃんおめでとう！！🍮🍮
+
+#黒澤ダイヤ生誕祭2017 https://t.co/ddjXpmChsT
+367001421	natu_k_	絵を描いて生きてます。 pixiv（http://www.pixiv.net/member.php?id=1501671） LINEスタンプ(https://store.line.me/stickershop/author/88657/ja)	RT @natu_k_: ほのかちゃんおめでとう(*ﾟ▽ﾟ)　 #高坂穂乃果生誕祭2015 http://t.co/CCbJMosViJ
+132279734	Y_negishio	進捗どうですか。根岸千秋名義で活動しております現在フリーランスのイラストレーターです。ご依頼などはサイトのAboutをご覧ください。【http://negishi.res-note.com】	RT @Y_negishio: 穂乃果ちゃんお誕生日おめでとう！
+どの衣装で描くかすごく迷ったんですが大好きな僕今で  #高坂穂乃果生誕祭2015 http://t.co/zXJ1zd2B94
+* Expected result:
+Team and Account info
+145144333	takaratomytoys	タカラトミーの商品紹介やイベントはもちろん、楽しいことをあれこれおしらせします。みなさんのフォローをお待ちしてます！商品・サービスのお問い合わせはこちらのお客様相談室にご連絡ください⇒ http://www.takaratomy.co.jp/support/other.html	RT @takaratomytoys: 実家にあった懐かしのおもちゃシリーズ。おさなきころ、盲腸炎で苦しんでいた私は病院でこのプラモデル作るのが大好きでした（´-`）
+
+#中の人の凡俗な年末年始 https://t.co/jsJngVau7E
+817082483191619588	bonsuka555	ツイッター初心者です。レゴ好きです。よろしくお願い致します。	RT @bonsuka555: 股関節の接続をあきらめ、もともと腕にあたるボールジョイントから脚部をのばしてみた結果、小さく好みのサイズに組むことができました。
+各所なるべくメカ感を意識してちりばめました。
+今回はカラーリングもなかなか気に入ってます！
+
+#レゴ… 
+2375254237	NBDRally	N.B.D.Rallyと申します。のんべんだらりとがんばります。 不束者ですがヨロシクお願い致します。YouTube：https://t.co/koCDNsCRXc Tumblr URL : http://t.co/nUeyFPMNZQ LINEスタンプ： http://t.co/Syqn9PhaiB …	RT @NBDRally: 亜礼薬！
+
+#SDガンダム https://t.co/4CGEtTtJ88
+1318576292	fugace_	フガーチェです。さわたりです。 ただのヲタクです。薄い本はメロンさんにて委託中どえす。 https://www.melonbooks.co.jp/circle/index.php?circle_id=15047 リプライは返せたり返せなかったり	RT @fugace_: ダイヤお姉ちゃんおめでとう！！🍮🍮
+
+#黒澤ダイヤ生誕祭2017 https://t.co/ddjXpmChsT
+367001421	natu_k_	絵を描いて生きてます。 pixiv（http://www.pixiv.net/member.php?id=1501671） LINEスタンプ(https://store.line.me/stickershop/author/88657/ja)	RT @natu_k_: ほのかちゃんおめでとう(*ﾟ▽ﾟ)　 #高坂穂乃果生誕祭2015 http://t.co/CCbJMosViJ
+132279734	Y_negishio	進捗どうですか。根岸千秋名義で活動しております現在フリーランスのイラストレーターです。ご依頼などはサイトのAboutをご覧ください。【http://negishi.res-note.com】	RT @Y_negishio: 穂乃果ちゃんお誕生日おめでとう！
+どの衣装で描くかすごく迷ったんですが大好きな僕今で  #高坂穂乃果生誕祭2015 http://t.co/zXJ1zd2B94
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2479587432&type=retweet&phrase=gooddeeds%20pairofchickens%20gooddeeds&hashtag=give
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+2495842651	121gooddeeds	I have been inspired to carry out 121 'good deeds'. Whether they are random acts of kindness to planned schemes aimed to brighten someone's day ! #121gooddeeds	RT @121gooddeeds: #Day1 What better way to start than with a #pairofchickens http://t.co/hvGbJyTm4E #121gooddeeds #oxfamnz #oxfam #give htt…
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=224729999&type=retweet&phrase=moccasins%20grasshoppers&hashtag=superbshoeoftheday
+* Response code: 200 OK
+* Your result:
+Team and Account info
+966165612	FahDavids	Aunty Ulfah	RT @superbalist: Meet our #SuperbShoeOfTheDay: 
+These Moccasins from Grasshoppers
+Available in 4 colours, as well as mid silhouettes…
+1277921940	LongJeanSilver	A fresh new brand bringing you jewellery with a sense of adventure. All pieces are hand-crafted and made using silver or brass and only genuine gemstones.	RT @Superbalist_: Emerging Creatives ART By HELLO MR FRANK | http://t.co/MN6ByRbKM3 | #superb_art http://t.co/ukwJysXz2a
+621028964	rualdrheeder	Africa Fashion International Designer	RT @Superbalist_: Earthy tones and tons of texture have dominated the menswear catwalk at @rualdrheeder – plus plenty of navy blue. #MBFWCT
+* Expected result:
+Team and Account info
+966165612	FahDavids	Aunty Ulfah	RT @superbalist: Meet our #SuperbShoeOfTheDay: 
+These Moccasins from Grasshoppers
+Available in 4 colours, as well as mid silhouettes… 
+1277921940	LongJeanSilver	A fresh new brand bringing you jewellery with a sense of adventure. All pieces are hand-crafted and made using silver or brass and only genuine gemstones.	RT @Superbalist_: Emerging Creatives ART By HELLO MR FRANK | http://t.co/MN6ByRbKM3 | #superb_art http://t.co/ukwJysXz2a
+621028964	rualdrheeder	Africa Fashion International Designer	RT @Superbalist_: Earthy tones and tons of texture have dominated the menswear catwalk at @rualdrheeder – plus plenty of navy blue. #MBFWCT
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1389000762&type=both&phrase=コラボクエスト&hashtag=ディバゲ
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+1651752007	divine_gate	「ディバインゲート（ディバゲ）」四次元広報「ミスター☆ディバイン」の公式アカウントです。
+ディバゲの最新情報はここでゲット！
+※たまにディバゲと関係ないこともつぶやきます。	RT @divine_gate: 『Fate/stay night[UBW]』コラボ、開催中！！
+コラボクエスト、スクラッチ情報はこちら
+https://t.co/OdiBNVaBUo
+#ディバゲ https://t.co/nQWttu8SgW
+1910310774	mattang_0915	야생의 원화가.
+ 
+픽시브: http://www.pixiv.net/member.php?id=1651244 
+파판 잡담 계:
+@bdowner_ff14	RT @mattang_0915: 我らを救い祈るべき神がいないなら聖女にこそこの祈りを奉げよう
+#FF14 #ファイナルファンタジー14 #イゼル https://t.co/6nrYyiesia
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1551271206&type=retweet&phrase=caramelos%20aytoalcorcon%20repartirán&hashtag=madrid
+* Response code: 200 OK
+* Your result:
+Team and Account info
+295608887	guardiacivil	Más de 80.000 hombres y mujeres trabajando para protegerte
+
+Síguenos: Facebook e Instagram https://t.co/gix9lRpXOx https://t.co/4DlxMlDutD…	RT @guardiacivil: Si conoces al 💀💀💀 que colocó alambres peligrosos para los ciclistas en la carretera de El Pardo #Madrid llama…
+6692562	davidperez	🇪🇸LIBERAL. PRO-VIDA. Alcalde de Alcorcón. Diputado de la Asamblea de Madrid. Vocal de la Junta de Gobierno FEMP. Comité de las Regiones. info@ayto-alcorcon.es	RT @davidperez: Aviso para #celiacos: Todos los caramelos del @AytoAlcorcon que hoy se repartirán en la #CabalgataAlcorcón son sin…
+* Expected result:
+Team and Account info
+295608887	guardiacivil	Más de 80.000 hombres y mujeres trabajando para protegerte
+
+Síguenos: Facebook e Instagram https://t.co/gix9lRpXOx https://t.co/4DlxMlDutD…	RT @guardiacivil: Si conoces al 💀💀💀 que colocó alambres peligrosos para los ciclistas en la carretera de El Pardo #Madrid llama… 
+6692562	davidperez	🇪🇸LIBERAL. PRO-VIDA. Alcalde de Alcorcón. Diputado de la Asamblea de Madrid. Vocal de la Junta de Gobierno FEMP. Comité de las Regiones. info@ayto-alcorcon.es	RT @davidperez: Aviso para #celiacos: Todos los caramelos del @AytoAlcorcon que hoy se repartirán en la #CabalgataAlcorcón son sin… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1348918380&type=retweet&phrase=نهائي&hashtag=النصر
+* Response code: 200 OK
+* Your result:
+Team and Account info
+523926217	AlNassrFC	الحساب الرسمي لنادي #النصر السعودي - AlNassr Saudi Club Official Account - English Version : @AlNassrSaudiFCe	RT @AlNassrFC: وإن تكالبت الظروفُ فلا تخف .. فالنصر نِِدٌ للظروف وللفرق
+بعد الفوز على الهلال بهدفين دون مقابل 
+#النصر إلى نهائي كأ…
+* Expected result:
+Team and Account info
+523926217	AlNassrFC	الحساب الرسمي لنادي #النصر السعودي - AlNassr Saudi Club Official Account - English Version : @AlNassrSaudiFCe	RT @AlNassrFC: وإن تكالبت الظروفُ فلا تخف .. فالنصر نِِدٌ للظروف وللفرق
+بعد الفوز على الهلال بهدفين دون مقابل 
+#النصر إلى نهائي كأ… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1958946078&type=retweet&phrase=pantai%20lembupurwo%20kebumen&hashtag=jaringanxtra
+* Response code: 200 OK
+* Your result:
+Team and Account info
+809927054091317249	marks_onita	maior felicidae da vda,	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant…
+763495985830060032	emileebingman21	ечег скзать	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant…
+763039421474152448	WeinbergRozanne	Сейча мы все такиегордые	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant…
+757454370241904640	maryellenbull17	im 18 im real im say wats on my mnd jss follow mi nd u wil see wat im tlkin bout haterz stay were u at dnt follow better yet folow u keep mi motivated follow	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant…
+757175703582441472	GallupDaina	♥18 years young ♥ TeamARMY ♥ iFollowBack ♥ TeamDoid ♥ TeamDarkSkin ♥ FunSized ♥ TeamLeo ♥ TeamMe ! ⓢⓘⓜⓟⓛⓨ єєкค !	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant…
+757012302935752704	shaneka_harmon	♥♥♥*¨*•.¸¸ ♥♣✿ (◕‿◕ ✿♣♥¸¸.•*¨*•♥♥	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant…
+* Expected result:
+Team and Account info
+809927054091317249	marks_onita	maior felicidae da vda,	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant… 
+763495985830060032	emileebingman21	ечег скзать	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant… 
+763039421474152448	WeinbergRozanne	Сейча мы все такиегордые	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant… 
+757454370241904640	maryellenbull17	im 18 im real im say wats on my mnd jss follow mi nd u wil see wat im tlkin bout haterz stay were u at dnt follow better yet folow u keep mi motivated follow	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant… 
+757175703582441472	GallupDaina	♥18 years young ♥ TeamARMY ♥ iFollowBack ♥ TeamDoid ♥ TeamDarkSkin ♥ FunSized ♥ TeamLeo ♥ TeamMe ! ⓢⓘⓜⓟⓛⓨ єєкค !	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant… 
+757012302935752704	shaneka_harmon	♥♥♥*¨*•.¸¸ ♥♣✿ (◕‿◕ ✿♣♥¸¸.•*¨*•♥♥	RT @m_arif_y: #JaringanXtra Jawa Tengah.
+Cuplikan rasa Bahagia bersama sahabat di Pantai Lembupurwo Kebumen. Bukan sembarang pant… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2246523289&type=retweet&phrase=تحرق&hashtag=شي_تفتخر_انك_عاصرته
+* Response code: 200 OK
+* Your result:
+Team and Account info
+811539663055949824	bahba11		RT @bahba11: شاهد أغرب 5 أزواج بالعالم
+#ماهي_حكمتك_في_الحياه
+#شي_تفتخر_انك_عاصرته
+#اسوا_شخصيه_لعام_2016_هو
+#داعش_تحرق_جنود_اتراك…
+* Expected result:
+Team and Account info
+811539663055949824	bahba11		RT @bahba11: شاهد أغرب 5 أزواج بالعالم
+#ماهي_حكمتك_في_الحياه
+#شي_تفتخر_انك_عاصرته
+#اسوا_شخصيه_لعام_2016_هو
+#داعش_تحرق_جنود_اتراك… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1909098746&type=retweet&phrase=الألماني%20سيحقق%20تنصت&hashtag=ميركل
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+437812863	Riy_World	آخــر الأخبـار الدوليـة مــن مـوقـع جريدة الرياض ..
+
+
+- تابع حساب #جريدة_الرياض @alRiyadh	RT @Riy_World: القضاء الألماني سيحقق في تنصت الأمريكيين على هاتف #ميركل
+ http://t.co/gY7UeSxqIM
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1595958828&type=both&phrase=猫%20ねこ&hashtag=ねこ
+* Response code: 200 OK
+* Your result:
+Team and Account info
+177393729	yanagiyahotaru	落語家の柳家ほたるです。二ツ目。師匠は柳家権太楼です。ブログはこちらです→ http://yaplog.jp/bakehotaru/	RT @yanagiyahotaru: 本日の猫さん。見ようと思ったら見られてた。
+#猫　#ねこ　#ネコ　#cat https://t.co/6SwQOnhWPm
+732450401400676352	montoutou_seibu	渋谷西武の老舗ペットショップ モントゥトゥです。http://ysdoggie-montoutou.com/	RT @nekobeyacom: ♬ご報告① ♬
+みにゃさま〜聞いてくださいっ❤❤
+
+まる太のところにサンタさんがお友達を連れて来てくれました🎅❣️
+わーい🎵❣❣️
+サンタさん❤ありがとう❣️❣️❣️
+
+#猫好きさんと繋がりたい  #ねこ 
+#クリスマス…
+1264919155	GTX_777R	寫眞機片手に今日もふらふら 猫写真は主にinstagram。人間の被写体さんも歓迎ナリ。 外暮らしの動物たちを静かに見守る合言葉は「#僕らの居場所は言わにゃいで」猫の写真を投稿するなら、場所の情報は伏せて、このハッシュタグ使ってもらえると嬉しいです(*´-`)	RT @GTX_777R: シャープな顔立ちのシャープ君。夕方からしか現れないのが残念だなぁ。
+
+#僕らの居場所は言わにゃいで https://t.co/RZs4EQlQqn https://t.co/D9f3hUGnVE
+* Expected result:
+Team and Account info
+732450401400676352	montoutou_seibu	渋谷西武の老舗ペットショップ モントゥトゥです。http://ysdoggie-montoutou.com/	RT @nekobeyacom: ♬ご報告① ♬
+みにゃさま〜聞いてくださいっ❤❤
+
+まる太のところにサンタさんがお友達を連れて来てくれました🎅❣️
+わーい🎵❣❣️
+サンタさん❤ありがとう❣️❣️❣️
+
+#猫好きさんと繋がりたい  #ねこ 
+#クリスマス… 
+177393729	yanagiyahotaru	落語家の柳家ほたるです。二ツ目。師匠は柳家権太楼です。ブログはこちらです→ http://yaplog.jp/bakehotaru/	RT @yanagiyahotaru: 本日の猫さん。見ようと思ったら見られてた。
+#猫　#ねこ　#ネコ　#cat https://t.co/6SwQOnhWPm
+1264919155	GTX_777R	寫眞機片手に今日もふらふら 猫写真は主にinstagram。人間の被写体さんも歓迎ナリ。 外暮らしの動物たちを静かに見守る合言葉は「#僕らの居場所は言わにゃいで」猫の写真を投稿するなら、場所の情報は伏せて、このハッシュタグ使ってもらえると嬉しいです(*´-`)	RT @GTX_777R: シャープな顔立ちのシャープ君。夕方からしか現れないのが残念だなぁ。
+
+#僕らの居場所は言わにゃいで https://t.co/RZs4EQlQqn https://t.co/D9f3hUGnVE
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=220169766&type=retweet&phrase=lasleonas&hashtag=alemania
+* Response code: 200 OK
+* Your result:
+Team and Account info
+85859130	FlickingHockey	Nos dedicamos al #hockey sobre césped nacional e internacional. Fotos, notas exclusivas con #LasLeonas, el #SeleccionadoMasculino y mucho más	RT @FlickingHockey: En minutitos arrancan #LasLeonas vs #Alemania. Vamos Argentina!!
+342115116	PabloCiarmatori	Ser Dr. es mi Meta Principal, y mi sueño, es se Ph. Profesional. Instagram: Pablo06_c, Seguime te Sigo...:p	RT @solsantamaria97: "@ZagagliaAgos: #UnaPatadaEnElCulo a los arbitros que te cobran mal" nos pasa en todos los partidos!! Boncaa!! ;/
+48245440	ESPNtenis	Los torneos más importantes, las novedades de los latinoamericanos y más. Seguinos en http://www.facebook.com/ESPNTenis - http://terminosdeuso.espn-la.com	RT @ESPNtenis: #TENISxESPN El Masters 1000 de Miami promociona el torneo con la presencia de @delpotrojuan. La acción, desde el 22…
+* Expected result:
+Team and Account info
+85859130	FlickingHockey	Nos dedicamos al #hockey sobre césped nacional e internacional. Fotos, notas exclusivas con #LasLeonas, el #SeleccionadoMasculino y mucho más	RT @FlickingHockey: En minutitos arrancan #LasLeonas vs #Alemania. Vamos Argentina!!
+342115116	PabloCiarmatori	Ser Dr. es mi Meta Principal, y mi sueño, es se Ph. Profesional. Instagram: Pablo06_c, Seguime te Sigo...:p	RT @solsantamaria97: "@ZagagliaAgos: #UnaPatadaEnElCulo a los arbitros que te cobran mal" nos pasa en todos los partidos!! Boncaa!! ;/
+48245440	ESPNtenis	Los torneos más importantes, las novedades de los latinoamericanos y más. Seguinos en http://www.facebook.com/ESPNTenis - http://terminosdeuso.espn-la.com	RT @ESPNtenis: #TENISxESPN El Masters 1000 de Miami promociona el torneo con la presencia de @delpotrojuan. La acción, desde el 22… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2388660296&type=reply&phrase=nrj%20lachaine&hashtag=lemag
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+95667467	NRJ12lachaine	Vous êtes bien sur le compte officiel de #NRJ12 ! 😜 #MadMag / ❤️ #TheGameOfLove / 😡 #SOSPascal / 👓 #TBBT / 🇺🇸 #AmericanDad / 👨‍👩‍👧‍👦 #TheMiddle / 😇 #LesAnges9 /	@NRJ12lachaine Eddy es-que  Mathieu c'est ton style ? #LeMag
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1896560478&type=reply&phrase=mudeng%20jowo%20ora&hashtag=nurutngana
+* Response code: 200 OK
+* Your result:
+Team and Account info
+
+* Expected result:
+Team and Account info
+237183083			@chungxuan kowe mudeng jowo ora? #nurutngana
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1713094964&type=retweet&phrase=merawat%20turut&hashtag=aidforsyria
+* Response code: 200 OK
+* Your result:
+Team and Account info
+565209642	ZulAbrarHakim	Terima kasih sudi follow atau stalk! DM for: Paid Review Paid RT & Twtjob ❤  abrarhakim94@gmail.com	RT @ZulAbrarHakim: Apabila yang dirawat parah, yang merawat juga turut tercedera.
+
+Hanya di Syria. #AmanPalestin #AidForSyria https://t.co/…
+264437035	DrAnwarFazal	Hamba.	RT @DrAnwarFazal: Ramai yang bertanya apa semua 26 cerita dalam #DIAgnosisFobia ini kisah benar?
+Baca dulu.Kamu akan tahu.
+
+Hanya di:…
+29144412	jimiecheng	I wish that I knew what I know now, when I was younger	RT @jimiecheng: Malaysian women lit af. #besignificant https://t.co/XhxDfPKEn6
+* Expected result:
+Team and Account info
+565209642	ZulAbrarHakim	Terima kasih sudi follow atau stalk! DM for: Paid Review Paid RT & Twtjob ❤  abrarhakim94@gmail.com	RT @ZulAbrarHakim: Apabila yang dirawat parah, yang merawat juga turut tercedera.
+
+Hanya di Syria. #AmanPalestin #AidForSyria https://t.co/…
+264437035	DrAnwarFazal	Hamba.	RT @DrAnwarFazal: Ramai yang bertanya apa semua 26 cerita dalam #DIAgnosisFobia ini kisah benar?
+Baca dulu.Kamu akan tahu.
+
+Hanya di:… 
+29144412	jimiecheng	I wish that I knew what I know now, when I was younger	RT @jimiecheng: Malaysian women lit af. #besignificant https://t.co/XhxDfPKEn6
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=22932834&type=retweet&phrase=futurefestival&hashtag=bbcradio1sbigweekendglasgow
+* Response code: 200 OK
+* Your result:
+Team and Account info
+1110193483	Its_a_Gorilla	I tweet and retweet a whole lot of CHVRCHES stuff.	RT @snappersass: Flippin awesome...ive just had a sneak preview of tonight....dont forget to watch on red button or online live! #bbcradio1…
+7111412	BBCR1	This is the official Twitter account for BBC Radio 1.	RT @BBCR1: #R1FutureFestival was INCREDIBLE - thank you to all of tonight's artists 🎵💜
+
+Catch the highlights on @BBCiPlayer to…
+* Expected result:
+Team and Account info
+1110193483	Its_a_Gorilla	I tweet and retweet a whole lot of CHVRCHES stuff.	RT @snappersass: Flippin awesome...ive just had a sneak preview of tonight....dont forget to watch on red button or online live! #bbcradio1…
+7111412	BBCR1	This is the official Twitter account for BBC Radio 1.	RT @BBCR1: #R1FutureFestival was INCREDIBLE - thank you to all of tonight's artists 🎵💜
+
+Catch the highlights on @BBCiPlayer to… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=171553344&type=retweet&phrase=jhelsea%20mysweetrelease&hashtag=notmybestshotthough
+* Response code: 200 OK
+* Your result:
+Team and Account info
+973499479	AshMattOfficial	Sarah Geronimo & Matteo Guidicelli	RT @AngeliPV: LOL sometimes I'm a shameless paparazzi ...here with @JustSarahG in @ASAPOFFICIAL #NotMyBestShotThough @KianaVee http://t.co/…
+428084268	glessa13	Sarah Geronimo Fan !	RT @AngeliPV: LOL sometimes I'm a shameless paparazzi ...here with @JustSarahG in @ASAPOFFICIAL #NotMyBestShotThough @KianaVee http://t.co/…
+795640222151151616	donningDonny	Fated to love you, Donny Pangilinan :)	RT @AngeliPV: Ey @donnypangilinan fans @DUNKINDONATOPH check @gabvalenciano @instagram stories! #PangilinanCousins in a basketbal…
+709197314007543808	ZenaidaGammad		RT @AngeliPV: I love it that #Kathniel is so close to us and #Jadine are two of @kianavee 's best friends.This is love.True friends just lo…
+3885916692	jeanmohammedkn		RT @AngeliPV: Gary singing Barcelona theme song now on @Wish1075 #KathNiel !
+3310763994	fngrl19	kathniel	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+3310519513	vien_alex		RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2983897098	AlexiaLecsR	this an order from the highest supreme government and you cant do anything about it	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2881583035	belieberhart1	so much love for kathniel	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2832835885	CabalteraMia		RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2632862650	WeLoveGaryV	Follow me on IG: @WeLoveGaryV 😁💙	RT @AngeliPV: Wooohooo #kianavonasap @GaryValenciano1 @manila_genesis https://t.co/HhTc9L2dsW
+2341295360	itsshnnkrstncrz	I want to spend my day sleeping and spend my night partying! Damn you Fvcking HACKER give my original (@iamshnnkrstncrz) twitter back 2nd time around	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2316636498	Stephan021123	A nursing student. Band vocalist ♥	RT @AngeliPV: Looks like @zsazsapadilla is joining our 30th #AriseGaryV on April 12 woooohoooo thanks also @ToniGonline 4 support http://t.…
+2298886363	pixieaxe	Dos & Gab. // Live. ⚡	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2238378908	JhoyceNora12	♥ Joycemil Nora ♥♥ ♥♥Vicerylle ♥SAMSTER ♥Terrence  ♥@sam_concepcion♥ IG:@jycmlnr♥FB: Jhoyce Nora♥Follow me and ask me for follow back :* ♥	RT @AngeliPV: You are destined4 greatness @sam_concepcion but the glory must always be His. It is His Word that will make u #ARISE http://t…
+2211893305	At21Alps		RT @AngeliPV: TFC20 #GalingNgFilipinoItuloyMo. What an honor 4 @GaryValenciano1 to be the @KapamilyaTFC 20th Anniv Ambassador #SFO http://t…
+2161956584	inyiyruma	Listen, Absorb, Analyze, Learn 💫
+TW/SnapChat/Line ➡ @inyiyruma
+
+http://www.facebook.com/inyiyruma	RT @AngeliPV: @GaryValenciano1 &amp;@manila_genesis want to thank @PLDTMedia @MYXphilippines @MyPhoneOfficial @MyPhoneEvents for your generosit…
+1349504521	bethtle		RT @AngeliPV: What!? @EllaPangilinanx is 18! where did the years go? @anakarylle @yosameti @yaelyraz @paolovalenciano #BZipperich http://t.…
+1291076778	ZiaholicsZPQ	Maintained by Zia Quizon FANS. Feel free to tweet us.	RT @AngeliPV: What!? @EllaPangilinanx is 18! where did the years go? @anakarylle @yosameti @yaelyraz @paolovalenciano #BZipperich http://t.…
+1287800804	sarcrumerc		RT @AngeliPV: TFC20 #GalingNgFilipinoItuloyMo. What an honor 4 @GaryValenciano1 to be the @KapamilyaTFC 20th Anniv Ambassador #SFO http://t…
+1141705070	rynxkn	Je ne regrette rien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bibliophile |rêveuse| KN stan '12| 20🌹	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+1086330283	xiamaravigor	Official Twitter Account · TV/Movie Actress · Commercial Model · Instagram @xiabernardo	RT @xiamaravigor: #YFSFKids this is where yfsf kids hangout! Go XIA❤️❤️ https://t.co/bvhsScjy0f
+1015115522	echoislove	(i'm a big fan of jericho_rosales and kimcamjones)                 .	RT @AngeliPV: “@mye5: Love and laughter in the air #echokimforever http://t.co/NsVJmmOcGS” @jericho_rosales @kimcamjones
+945284634	zhoey017	https://www.facebook.com/yesser.cabual /instagram : @rhae017 follow me ' gonna follow back agad-agad :))	RT @AngeliPV: Busy rehearsing for #AriseGaryV yesterday the AKAJAM @akajamXFPH @jhelsea_06 @mysweetrelease @monique_nix @katvelarde http://…
+905619380	AleliAli		RT @AngeliPV: #GGVIconLaugh we are planning Gary and Sarah third quarter of this year with @VivaArtists @GaryValenciano1 https://t.co/2NKVX…
+865648778	imdanefuentes	God's Princess | Jeremiah 29:11 | Committed to @Danielberks26 | MNL PHL 
+
+https://www.facebook.com/kareldane.fuentes	RT @AngeliPV: Yey! look who's supporting #AriseGaryV #DanielPadilla @GaryValenciano1 @manila_genesis @ASAPOFFICIAL @Roxy_Liquigan http://t.…
+795048655	arkdotash	Architect. Simple. Creative. Logical. Fan	RT @AngeliPV: “@paolovalenciano: One of my favorite numbers. #SarahG #ARISEGaryV http://t.co/HtRQlS14rG” @JustSarahG is the Philippines bes…
+452805043	itskcbford	❝❞	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+287514125	4everSARAHG25	Official Twitter  account of POPSTERS Isabela Chapter. FOREVER SARAH GERONIMO FANS.  @JustSarahG :) VISIT our FB account https://t.co/oQLzdpk0o8 :)	RT @AngeliPV: After her rehearsal she says she wants 1 more session. What a pro Sarah Geronimo is.Not a lot like that 2day. #Arise http://t…
+236634061	chenruru_purple	kathniel	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+235528453	linglingtano	loner but not alone	RT @AngeliPV: Lord the concert #AriseGaryV is in your hands. To YOU be the glory honor&amp; praise for Gary's 30 yrs. TY @justsarahg http://t.c…
+121415348	restopizza	Entrepreneur, I love peter pan,and I love Sam Concepcion❤ I love those people who support him❤	RT @AngeliPV: Everyone makes mistakes &amp; we all want to be vindicated but God has shown me time &amp;again thru the thief on the Cross God is me…
+120735184	shielaazul	I'm a daughter, a friend, TEACHER and a POPSTER. 
+
+follow me @shielaazul on twitter and @iamshielarose on instagram.. thanks! :)	RT @AngeliPV: And to @JustSarahG &amp; her @popsters25 what would #ARISEGaryV be without your love &amp; dedication! @sam_concepcion @samstersclan …
+76227020	Sanechotic_Chic	TRINITARIAN. A HOPEFUL REALIST. MUSIC is a necessity for me. FOODIE. TRAVELER. BEACHBUM. The biggest adventure I can take is to live the life of my dreams!	RT @AngeliPV: So @JustSarahG waits for her copy of #WithYou her tito @garyvalenciano1 is writing a message on #AriseGaryV April 11 http://t…
+65344397	xxjesuismoixx	Loving you was the most exquisite form of self destruction.	RT @AngeliPV: Here's @GaryValenciano1 praying with @JustSarahG @realeriksantos #TakeMeOutOfTheDark #EasterSpecial @ASAPOFFICIAL http://t.co…
+56950868	AbbyAsistio	Singer/Songwriter. Host. Alopecia Awareness/Real Beauty Advocate. Traveler. Explorer. Lover of all things fun, adventurous, delicious & beautiful. @RKphils	RT @AngeliPV: SM Taytay @garyvalenciano1 is on the way there now for #GenCon10 @RJdelaFuente @thisis_julianne @AbbyAsistio @akajamXFPH @soC…
+37630159	makilingmiracle	❤️thankful. Jesus said to me, Did I not say to you that if you believe, you will see the glory of God? family art trees books history football Philippines⚽️	RT @makilingmiracle: what a show. i mean, WHAT A SHOW⭐️⭐️⭐️ #ARISEgaryv #praiseGod therealgaryv @angelipv @paolovalenciano… http://t.co/OBX…
+20791372	ACLJ	The ACLJ is a constitutional law firm, led by @JaySekulow, committed to defending religious liberty, free speech, and the right to life in America & beyond.	RT @ACLJ: "The greatest destroyer of peace today is abortion, because it is a war against the child." - #MotherTeresa #ProLife https://t.co…
+* Expected result:
+Team and Account info
+973499479	AshMattOfficial	Sarah Geronimo & Matteo Guidicelli	RT @AngeliPV: LOL sometimes I'm a shameless paparazzi ...here with @JustSarahG in @ASAPOFFICIAL #NotMyBestShotThough @KianaVee http://t.co/…
+428084268	glessa13	Sarah Geronimo Fan !	RT @AngeliPV: LOL sometimes I'm a shameless paparazzi ...here with @JustSarahG in @ASAPOFFICIAL #NotMyBestShotThough @KianaVee http://t.co/…
+795640222151151616	donningDonny	Fated to love you, Donny Pangilinan :)	RT @AngeliPV: Ey @donnypangilinan fans @DUNKINDONATOPH check @gabvalenciano @instagram stories! #PangilinanCousins in a basketbal… 
+709197314007543808	ZenaidaGammad		RT @AngeliPV: I love it that #Kathniel is so close to us and #Jadine are two of @kianavee 's best friends.This is love.True friends just lo…
+3885916692	jeanmohammedkn		RT @AngeliPV: Gary singing Barcelona theme song now on @Wish1075 #KathNiel !
+3310763994	fngrl19	kathniel	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+3310519513	vien_alex		RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2983897098	AlexiaLecsR	this an order from the highest supreme government and you cant do anything about it	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2881583035	belieberhart1	so much love for kathniel	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2832835885	CabalteraMia		RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2632862650	WeLoveGaryV	Follow me on IG: @WeLoveGaryV 😁💙	RT @AngeliPV: Wooohooo #kianavonasap @GaryValenciano1 @manila_genesis https://t.co/HhTc9L2dsW
+2341295360	itsshnnkrstncrz	I want to spend my day sleeping and spend my night partying! Damn you Fvcking HACKER give my original (@iamshnnkrstncrz) twitter back 2nd time around	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2316636498	Stephan021123	A nursing student. Band vocalist ♥	RT @AngeliPV: Looks like @zsazsapadilla is joining our 30th #AriseGaryV on April 12 woooohoooo thanks also @ToniGonline 4 support http://t.…
+2298886363	pixieaxe	Dos & Gab. // Live. ⚡	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+2238378908	JhoyceNora12	♥ Joycemil Nora ♥♥ ♥♥Vicerylle ♥SAMSTER ♥Terrence  ♥@sam_concepcion♥ IG:@jycmlnr♥FB: Jhoyce Nora♥Follow me and ask me for follow back :* ♥	RT @AngeliPV: You are destined4 greatness @sam_concepcion but the glory must always be His. It is His Word that will make u #ARISE http://t…
+2211893305	At21Alps		RT @AngeliPV: TFC20 #GalingNgFilipinoItuloyMo. What an honor 4 @GaryValenciano1 to be the @KapamilyaTFC 20th Anniv Ambassador #SFO http://t…
+2161956584	inyiyruma	Listen, Absorb, Analyze, Learn 💫
+TW/SnapChat/Line ➡ @inyiyruma
+
+http://www.facebook.com/inyiyruma	RT @AngeliPV: @GaryValenciano1 &amp;@manila_genesis want to thank @PLDTMedia @MYXphilippines @MyPhoneOfficial @MyPhoneEvents for your generosit…
+1349504521	bethtle		RT @AngeliPV: What!? @EllaPangilinanx is 18! where did the years go? @anakarylle @yosameti @yaelyraz @paolovalenciano #BZipperich http://t.…
+1291076778	ZiaholicsZPQ	Maintained by Zia Quizon FANS. Feel free to tweet us.	RT @AngeliPV: What!? @EllaPangilinanx is 18! where did the years go? @anakarylle @yosameti @yaelyraz @paolovalenciano #BZipperich http://t.…
+1287800804	sarcrumerc		RT @AngeliPV: TFC20 #GalingNgFilipinoItuloyMo. What an honor 4 @GaryValenciano1 to be the @KapamilyaTFC 20th Anniv Ambassador #SFO http://t…
+1141705070	rynxkn	Je ne regrette rien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bibliophile |rêveuse| KN stan '12| 20🌹	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+1086330283	xiamaravigor	Official Twitter Account · TV/Movie Actress · Commercial Model · Instagram @xiabernardo	RT @xiamaravigor: #YFSFKids this is where yfsf kids hangout! Go XIA❤️❤️ https://t.co/bvhsScjy0f
+1015115522	echoislove	(i'm a big fan of jericho_rosales and kimcamjones)                 .	RT @AngeliPV: “@mye5: Love and laughter in the air #echokimforever http://t.co/NsVJmmOcGS” @jericho_rosales @kimcamjones
+945284634	zhoey017	https://www.facebook.com/yesser.cabual /instagram : @rhae017 follow me ' gonna follow back agad-agad :))	RT @AngeliPV: Busy rehearsing for #AriseGaryV yesterday the AKAJAM @akajamXFPH @jhelsea_06 @mysweetrelease @monique_nix @katvelarde http://…
+905619380	AleliAli		RT @AngeliPV: #GGVIconLaugh we are planning Gary and Sarah third quarter of this year with @VivaArtists @GaryValenciano1 https://t.co/2NKVX…
+865648778	imdanefuentes	God's Princess | Jeremiah 29:11 | Committed to @Danielberks26 | MNL PHL 
+
+https://www.facebook.com/kareldane.fuentes	RT @AngeliPV: Yey! look who's supporting #AriseGaryV #DanielPadilla @GaryValenciano1 @manila_genesis @ASAPOFFICIAL @Roxy_Liquigan http://t.…
+795048655	arkdotash	Architect. Simple. Creative. Logical. Fan	RT @AngeliPV: “@paolovalenciano: One of my favorite numbers. #SarahG #ARISEGaryV http://t.co/HtRQlS14rG” @JustSarahG is the Philippines bes…
+452805043	itskcbford	❝❞	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+287514125	4everSARAHG25	Official Twitter  account of POPSTERS Isabela Chapter. FOREVER SARAH GERONIMO FANS.  @JustSarahG :) VISIT our FB account https://t.co/oQLzdpk0o8 :)	RT @AngeliPV: After her rehearsal she says she wants 1 more session. What a pro Sarah Geronimo is.Not a lot like that 2day. #Arise http://t…
+236634061	chenruru_purple	kathniel	RT @AngeliPV: So we are watching #PangakoSaYo with Mamita &amp; @GaryValenciano1 here in Florida. Hehe @bernardokath @imdanielpadilla http://t.…
+235528453	linglingtano	loner but not alone	RT @AngeliPV: Lord the concert #AriseGaryV is in your hands. To YOU be the glory honor&amp; praise for Gary's 30 yrs. TY @justsarahg http://t.c…
+121415348	restopizza	Entrepreneur, I love peter pan,and I love Sam Concepcion❤ I love those people who support him❤	RT @AngeliPV: Everyone makes mistakes &amp; we all want to be vindicated but God has shown me time &amp;again thru the thief on the Cross God is me…
+120735184	shielaazul	I'm a daughter, a friend, TEACHER and a POPSTER. 
+
+follow me @shielaazul on twitter and @iamshielarose on instagram.. thanks! :)	RT @AngeliPV: And to @JustSarahG &amp; her @popsters25 what would #ARISEGaryV be without your love &amp; dedication! @sam_concepcion @samstersclan …
+76227020	Sanechotic_Chic	TRINITARIAN. A HOPEFUL REALIST. MUSIC is a necessity for me. FOODIE. TRAVELER. BEACHBUM. The biggest adventure I can take is to live the life of my dreams!	RT @AngeliPV: So @JustSarahG waits for her copy of #WithYou her tito @garyvalenciano1 is writing a message on #AriseGaryV April 11 http://t…
+65344397	xxjesuismoixx	Loving you was the most exquisite form of self destruction.	RT @AngeliPV: Here's @GaryValenciano1 praying with @JustSarahG @realeriksantos #TakeMeOutOfTheDark #EasterSpecial @ASAPOFFICIAL http://t.co…
+56950868	AbbyAsistio	Singer/Songwriter. Host. Alopecia Awareness/Real Beauty Advocate. Traveler. Explorer. Lover of all things fun, adventurous, delicious & beautiful. @RKphils	RT @AngeliPV: SM Taytay @garyvalenciano1 is on the way there now for #GenCon10 @RJdelaFuente @thisis_julianne @AbbyAsistio @akajamXFPH @soC…
+37630159	makilingmiracle	❤️thankful. Jesus said to me, Did I not say to you that if you believe, you will see the glory of God? family art trees books history football Philippines⚽️	RT @makilingmiracle: what a show. i mean, WHAT A SHOW⭐️⭐️⭐️ #ARISEgaryv #praiseGod therealgaryv @angelipv @paolovalenciano… http://t.co/OBX…
+20791372	ACLJ	The ACLJ is a constitutional law firm, led by @JaySekulow, committed to defending religious liberty, free speech, and the right to life in America & beyond.	RT @ACLJ: "The greatest destroyer of peace today is abortion, because it is a war against the child." - #MotherTeresa #ProLife https://t.co…
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=218008999&type=retweet&phrase=mclaina&hashtag=4musiclfsbeliebers
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+1890614389	BiebersWyfeX30	♕ Sir Bizzle ♡ #wolfpack ♡ msftsREP ♡ 
+♪ ♫ ♩ ~ U n s i g n e d S i n g e r ~ ♪ ♫ ♩	RT @jelyn_Mclaina: Best idol? Justin Bieber    Best fanbase? Beliebers    Best relationship? Jeliebers   #4MusicLFSBeliebers http://t.co/7f…
+389949893	andeejulia		RT @jelyn_Mclaina: Justin Bieber in worldwide trends #WMAJustinBieber
+2477062436	shaklinbizzle	Hi we are two funny, random and awesome humans and we love Bizzle, Takis , Youtubers and Boybands ;)	RT @jelyn_Mclaina: #heatJustinBieber biggest and best fan base is beliebers http://t.co/ni9Quum10c
+1414515542	babyfluffy12	I am a belieber for life. I wont give up on my dream! My love pors out to that one canadian boy, my only love. We are strong, we will always be a family! 3	RT @jelyn_Mclaina: #WMAJustinBieber Let's vote for Justin  SOMEONE TOLD ME NOT TO USE SMILEYS AND NUMBERS WHEN VOTING. AND USE 1 HASHTAG ON…
+1239313056	JBCrewdotcom	Your ultimate daily resource for the most recent Justin Bieber news, photos, videos, giveaways, live updates and more! | Enquiries: lauren@justinbiebercrew.com	RT @JBCrewdotcom: KennyHamilton: Great day to be back with family! @justinbieber #killingit #tawedding http://t.co/vgUfIGVs1t
+1207921279	FlorianKoenig1	Formel1, Boxen, Fußball. Großer Sportfan. Moderator RTL	RT @FlorianKoenig1: Lots of media waiting for @justinbieber to come out of Bernie's Motorhome. #MonacoGrandPrix http://t.co/JMDbHhKMZF
+103783914	highnotezash	♛ we are the kings & queens of the new broken scene ♛	RT @jelyn_Mclaina: LET'S MAKE THIS HAPPEN AND SEE JUSTIN WINNING ANOTHER AWARD  #JustinHitsTCAs2014 http://t.co/5ZDrqK5TjI
+85772748	dolcegabbana		RT @dolcegabbana: Justin Bieber wearing Dolce&amp;Gabbana to amfAR’s 21st Cinema Against AIDS Gala in Cannes on May 22, 2014. #dolcegab... http…
+40076725	MTVNews	hmmmmmmmmtvnews	RT @MTVNews: #beliebers, did @JustinBieber have the best holiday weekend or what? http://t.co/T4DmoAglLr http://t.co/KHSHYuKAZv
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=243834845&type=retweet&phrase=leoareal&hashtag=edlp
+* Response code: 200 OK
+* Your result:
+Team and Account info
+284128412	EdelpOficial	Cuenta Oficial del Club Estudiantes de La Plata. #EDLP	RT @EdelpOficial: #EDLP ⚽ Fútbol Profesional | [Video] La palabra de @leoareal8 al finalizar el partido y el gol del triunfo en el am…
+4419996868	DebatePincha	Grupo de Socios e hinchas fomentando la Opinión y Debate, sobre nuestro querido Estudiantes. Identidad, trabajo, humildad, y solidaridad, como pilares del club.	RT @DebatePincha: #EDLP Ahora! La previa en el Hotel al #REGRESO #VERON ante 
+@ECBahia por @Florida_Cup #Queplacerverteotravez!!!…
+* Expected result:
+Team and Account info
+284128412	EdelpOficial	Cuenta Oficial del Club Estudiantes de La Plata. #EDLP	RT @EdelpOficial: #EDLP ⚽ Fútbol Profesional | [Video] La palabra de @leoareal8 al finalizar el partido y el gol del triunfo en el am… 
+4419996868	DebatePincha	Grupo de Socios e hinchas fomentando la Opinión y Debate, sobre nuestro querido Estudiantes. Identidad, trabajo, humildad, y solidaridad, como pilares del club.	RT @DebatePincha: #EDLP Ahora! La previa en el Hotel al #REGRESO #VERON ante 
+@ECBahia por @Florida_Cup #Queplacerverteotravez!!!… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2344041851&type=both&phrase=veux&hashtag=lafrancememanquequandmeme
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+582985701	MrTaGaDiX	https://www.youtube.com/watch?v=cFf85n-Im8Q&list=PL8WQcoXK7HYq3qGb8jCANbCq3GKDCiL5M That playlist is the best playlist ever ♥	@MrTaGaDiX Ouai puis après on va aller au cinéma voir #fiston  tu veux venir ? 😆
+55616342	kevadamsss	#ToutEstPossible. @MyFamilyProd . @AdamsFamilyProd .	RT @kevadamsss: Last Night at #TheIceHouse in Pasadena ! Crazy Audience! So warmfull! Thank you so much!  #LaFranceMeManqueQuandMeme http:/…
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2395780686&type=retweet&phrase=bertahan%20konteskdi%20pkl&hashtag=nontonlagikdi
+* Response code: 200 OK
+* Your result:
+Team and Account info
+213602126	Official_MNCTV	MNCTV Official Account - Dangdut, Drama, Animasi, Sport. FP: MNCTV Official. InstaGram: officialmnctv. Youtube : MNCTV Official	RT @KDI2014_MNCTV: Jumpara..jumparaa..setangkai bunga padi kau selipkan dirambutku. Aaaaa...aaaaa..ayeee @ItaKDI2014 #KontesKDI http://t.co…
+246271822	limjingyuan	I Love Cars, Music, Tech, Food, Luxury Watches, Movies, Travel, Sports, Business & Drinking Starbucks #PemiluPresiden 9 Juli 2014	RT @KDI2014_MNCTV: Berhasilkah @BuyungKDI2014 tampil maksimal dgn lagu Anggur Merah dipopulerkan Muchsin Alatas? #KonteaKDI http://t.co/Hkb…
+2481465026	elismanjunaid1	field collection	RT @KDI2014_MNCTV: Yuk malem mingguan bareng @DeniasKDI2014 @UtiPutriKDI2014 @HeraKDI2014 @SyamsirKDI2014 @ItaKDI2014 yuk! #NontonLagiKDI
+2417269314	Chaerunnisanis1		RT @KDI2014_MNCTV: Ketinggalan aksi 16 kontestan KDI 2014? Dan ingin tahu bagaimana penjemputan @IndahKDI2014 terjemput? #NontonLagiKDI htt…
+2427197102	Lesti_AcademyID	Akun Resmi/Official Lesti. Minta dukungannya ya . Dengan Cara Ketik DA (spasi) LESTI kirim ke 7288 sebanyak-banyaknya ya. Tong Hilaapb.	RT @KDI2014_MNCTV: Olaolela...olaolelaaa...@ItaKDI2014 jadi Putri Panggung&amp;Janger #KontesKDI http://t.co/sB3gTdfjOz
+2405208842	satriasupra	Keep Calm	RT @KDI2014_MNCTV: Ita Madura siap jadi Pengobat Rindu malam ini. Tetap stay tune KDI Lovers #KontesKDI http://t.co/d2bSmeT5rI
+1121103128	devipermata55	05_08_1995 | music is my Life | Dangdut song is Lover | reading aL-Quran is my hoby | Life aLways remember to aLLah | Hidup indah bila di jalani dengan baik.	RT @KDI2014_MNCTV: Suasana menjadi haru @BuyungKDI2014 - Surga Ditelapak Kaki Ibu #KontesKDI http://t.co/Dp4uDlZpon
+1014586880	samsiya_izarull	The Official Twitter Account Samsiiya R Icha Safitri I Love Allah , My FamiLy , Nabi&RasuL ALways pray for Mom and Dad	RT @KDI2014_MNCTV: Hihi sambil nunggu giliran, @YendriKDI2014_ terus latihan lho KDI Lovers. Setelah ini ya di #KontesKDI http://t.co/fwiZd…
+810129542870249472	nawra8888	Good communication comes from people to people, but great communication comes from people to ALLAH☺	RT @KDIOffc_MNCTV: Malam ini! Akankah rumah Babe Somad Terjual &amp; dapat melunasi hutangnya? #AADeCiKuatkanHati sekarang https://t.co/T4hQ1uS…
+765483156745039876	hawraarsyad	IG : @hawraaa_aytinglicious Always Support Teteh @aytingnew92 AADeCi Jam 19.00 Hanya Di MNCTV, #supportayutingting #weareaytinglicious #weloveayutingting	RT @KDIOffc_MNCTV: Makin penasaran kan dengan peliknya kehidupan Ayu &amp; keluarganya? Yuk tonton &amp; ramaikan #AADeCiBerjuangHidup sekarang htt…
+3288086565	hawraayting	Real Twitter AyuTingTing only @aytingnew92 (Rose) Follow @aytinglicious The One&Only AyuTing2FC #SupportAyuTingTing IG : @hawraaa_aytinglicious	RT @KDIOffc_MNCTV: Mandala menyuruh Karmun untuk menyingkirkan Andre, Gawat!! Andre dalam bahaya, tolong di #AADeCiPindahRumah pkl 19:…
+2902555262	puthriechan	Bismillah...Everything is possible as long as we believe. Dream, pray, believe, do, success, happy (Support Ayu Ting Ting) Youtube Channel: AYU TING TING TV	RT @KDIOffc_MNCTV: Nadia masih terus meneror Ayu, malam ini apalagi rencana liciknya? Tonton serunya #AADeCiTetapSemangat pkl 19:00 https:/…
+2549177802	Fitrah_DwiAndir	Saya ngefens bangat sama Irsyad KDI 2014...sampai2 aku nangis waktu aku melihat Irsyad di jemput....	RT @KDI2014_MNCTV: Bang @muclektw kode banget ya mau atau mau gantiin Kang Purwa, hehe. #KontesKDI http://t.co/0sIN8tpPtK
+2495725501	fenty_32957	Musik is my love'is the best...ok	RT @KDI2014_MNCTV: @FadlyKDI2014 Batang terjemput malam ini. Tetap semangat @FadlyKDI2014. CLOSING #KontesKDI http://t.co/weEc13eN1X
+2481796427	IfanMasrifan	Do more....!!!	RT @KDI2014_MNCTV: Nih KDI Lovers, Fardi 'Menunggu' dukungan Indonesia untuk maju ke babak kontes. #GerbangKDi http://t.co/uFTm849hHd
+2473746200	Rian_muaraband	Pnengen jd orang besar tp gk pnya kemampuan	RT @KDI2014_MNCTV: Bangka Belitung dan sekitarnya saatnya dukung @YendriKDI2014_ dengan cara ketik KDI(spasi)Yendri kirim ke 6288 #KontesKDI
+2467746752	Fendy_hacker		RT @KDI2014_MNCTV: @ItaKDI2014 Goyang Karawang kiri kanan. Asyikkk... asyikkk #KontesKDI http://t.co/pByT8OwWci
+2463439309	df5bf2699fb14dc		RT @KDI2014_MNCTV: IRSYAD Majene, tampil dengan Gelora Asmara dipopulerkan oleh @kingnassar88. Jangan lupa dukung ya #GerbangKDI http://t.c…
+2456483838	Denias_JKT	Official fans @DeniasKDI2014 dari Jakarta | ketik KDI (spasi) DENIAS kirim ke 6288 | #SalamDeniUs	RT @KDI2014_MNCTV: Sms dong "@chiungril: Malam ini ak dkung DENIAS dr Cianjur @KDI2014_MNCTV #FinalWildCard"
+2451808093	DoankNurma		RT @KDI2014_MNCTV: Now, @BuyungKDI2014 "Jandaku" #KontesKDI http://t.co/4dzSqEGyxp
+2433537920	rindaputricahya		RT @rindaputricahya: @KDI2014_MNCTV buat denias kmi sll mendukung mu... mantap'' ... oke'' 
+kmi dri p.bun kateng .. sll nobar .. 
+#konteskd…
+2408132000	fiatasep		RT @KDI2014_MNCTV: Selamat Niken mendapat Wild card. Sampai jumpa di wild card. CLOSING #GerbangKDI http://t.co/PP4euuqLy2
+2401718467	wulanda79441359	Be your Self	RT @KDI2014_MNCTV: Persiapan @darkodenny untuk menjemput salah satu kontestan malam ini. Siapa kira-kira? #KontesKDI http://t.co/kadJdPJPaS
+2400997616	putra_sita_7056		RT @KDI2014_MNCTV: LINK Download Formulirnya: http://t.co/ANsrZoOoUC  formnya bisa diapat Online.Tapi pendaftaran tetap harus di tempat aud…
+2380501194	Desijepot	Selalu rindu pantai,gunung,......KeajaibanMu Jepot-Makassar	RT @Desijepot: @KDI2014_MNCTV Keberhasilan para kontestan tdk lepas dr dukungan penuh kepala daerahnya #GerbangKDI @Official_MNCTV
+2378798114	murni_aza		RT @KDI2014_MNCTV: OP @MegaKDI2014_ dengan 1000 alasan #KontesKDI http://t.co/UJl28kbLoX
+2337622682	AkmallAweu	761AFD72	RT @KDI2014_MNCTV: Atau dapatkan Formulir #KDI2014, di Airlangga Sukabumi), Radio Garuda Bandung, Radio Dahlia Bandung, Radio Cakra Bandung…
+2306781990	tuluszz		RT @KDI2014_MNCTV: MEDAN!! Bersiaplah untuk Lahirnya Bintang Dangdut, ikuti audisinya 12 April di Hotel Garuda Plaza. #KDI2014
+2274695028	Syahdalatifa2		RT @KDI2014_MNCTV: Para kontestan tegang menunggu detik-detik penentuan siapa yang akan lolos ke babak Kontes KDI #GerbangKDI http://t.co/h…
+2267538740	asepsamudra85		RT @KDI2014_MNCTV: Hadir sesaat lagi Kania Bandung yang akan mengguncang malam ini &amp; jangan lupa dukung terus ya #GerbangKDI
+2164688605	blekoy1		RT @KDI2014_MNCTV: Heiiiiii...@OQ_Lukman @ayu_lia2104 @kingnassar88 @radotvalent semangat menghibur malam ini #KontesKDI http://t.co/5y8m3X…
+2159989704	onediwandy	Nursing Academy||suka Naruto-Kamen Rider-Power Ranger-Ultraman-Dragon Ball-Doraemon-Shincan-Pokemon-Upinipin||Lahir 5 Maret 1995	RT @KDI2014_MNCTV: Terimakasih sudah nonton #GerbangKDI eps 2, besok masih ada perjuangan Yovita, Indah, Denias, Yati, Mega, Dewi. Live Pk …
+1907331355	Rekaa_Rodriguez	18 august 1996 | lulus UN dgn hasil yg memuaskan | pengen jadi Guru SD  :D | Barcelonista BJM | Marquezer BJM | Denius BJM	RT @KDI2014_MNCTV: Siapa yg mau anggur merahnya @DeniasKDi2014? Dashyatnyaaaa..teganya..teganyaa.. #KontesKDI http://t.co/fA3uyu5tYj
+1582004796	Dede_rana	Dede Rana|Bdg 2 Sept 1993|Line: dede_rana WeChat: dede9604 Kakao: Dede Rana Fb: dederana99@yahoo.com|Music Is My Everything♥	RT @KDI2014_MNCTV: Bener kata Ummi Elvi, Ibu itu Keramat! Doa Ibu itu doa Allah swt. Oh sweet..mendadak sedih ini #KontesKDI
+1511852371	SebatikJumardin		RT @KDI2014_MNCTV: Now OP #KontesKDI! ADEGAN Film Gitar Tua. http://t.co/X8HPOK09qq
+1432557091	LiendaLada	♥friday friend ♥[F]ame famous || Amaxing ||  kelviners||#MitraMania ||Ahmad Nur Hidayat #Lada || mention for follback || unfollow ? unfollback ! :)	RT @KDI2014_MNCTV: Bandungg!! Jangan ragu u/ dukung Koko menuju Final Wild Card. Ketik KDI(Spasi)Koko kirim ke 6288. Pk18.00 #GerbangKDI ht…
+1427606102	MRKikinurjaman	VisiMisi : nge-FOLLOW and Nge-FOLLBACK
+
+| a muslim | capricorn Boy | a student | music | SingleHappy | KeepSmile :) |
+
+Peace And Brotherhood was Beautiful	RT @MRKikinurjaman: Aku paling ngefans sama Bu Bertha, gilaaa bgtt Super pedes tapi membangun dan detail. I love KDI #GerbangKDI @KDI2014_M…
+1329662731	lilybebe_zayn	No more tears No more cry,, :-)	RT @KDIOffc_MNCTV: Claudia siap ungkapkan jadi diri Angelo sebenarnya! Jangan lewatkan #PangakoTheJustice pukul 20.00 https://t.co/sHFX12CK…
+1279699873	Tashifarainia	tashifa fardhinia zuhrain (spongebobo)
+Ilove  اللَّهُ  Ilove muhammad ilove islam (@DeniasKDI2014) I'am DeniUs #SalamDeniUs	RT @KDI2014_MNCTV: Apa iya ada Cinta Segitiga antara @DeniasKDI2014 @ThaliaKDI2014 @SyamsirKDI2014? #KontesKDI http://t.co/GcN1wrkPly
+1167690224	adnenzRama29	█ 10%██ 20%███ 30%████ 40%█████ 50%██████ 60% ███████ 70%████████ 80 %█████████ 90%Loading . . ███████████100%(Always Love Stefy and Raisa)	RT @KDI2014_MNCTV: Akan hadir setelah commercial break Thalia Jakarta jangan sampai kehilangan dukungan. Ayo sms terus sebanyak-banyak ya #…
+935842382	aderesfika	Ig: Resfikaade pin: 7cdd981b ♥Minions ♥RealMadrid	RT @KDI2014_MNCTV: Persaiangan antar 4 kontestan makin PANAS!! Siapa yg akan terus melaju ke FINAL? Malam ini Pkl 19.00 #KONTESKDI http://t…
+921241206	AdamZFR	ManchesterUnitedFC•	RT @KDI2014_MNCTV: Dengan bangga, memperkenalkan 16 kontestan KDI 2014. 10 menit menuju Kontes KDI 2014. PERDANA malam ini #KontesKDI http:…
+913060010	solid_roy	YANG LALU BIARLAH JADI Berlalu,LANGKAHKAN KAKIMU KEDEPAN UNTUK MASA DepAN MU YG cERIA	RT @KDI2014_MNCTV: Dengerin Magadirnya UtiPutri tenang dan sejuk banget ya. Medan jangan lupa dukung ya #GerbangKDI http://t.co/Q58pYjGWpS
+841251998	dya_isty	simple	RT @KDI2014_MNCTV: MegaNP sedang "Bisik-Bisik Tetangga" nih tweeps #GerbangKDI http://t.co/X7hgeLxMFv
+737935729	berlin_ET	Ig: berlinemilda	RT @KDI2014_MNCTV: Selamat untuk Mega dan Indah lolos ke babak Kontes KDI.Siapa yg akan mendapat wild card? #GerbangKDI http://t.co/rnHgXAP…
+720420186	aniezalief	Alumni (SDN KAPOTAYUDHA 1 MAKASSAR) (SMPN 1 MAKASSAR) (SMK NEGERI 1 MAKASSAR)  n Academy of Nursing PELAMONIA KESDAM VII / WIRABUANA	RT @KDI2014_MNCTV: Wah ada kejutan buat @IfanKDI2014 nih, ada ayah Mansyur S. Hohohoho, cuma di #KontesKDI http://t.co/SfB0UF4ZsM
+630110222	adrieadri	entertaiment	RT @KDI2014_MNCTV: Inilah 16 kontestan Kontes KDI yang akan tampil besok malam #GERBANGKDI http://t.co/IXiRZk5GC5
+618750863	rimaniyah3196		RT @KDI2014_MNCTV: Bangka Belitung waktunya dukung @YendriKDI2014_ agar tidak terjemput.Caranya ketik KDI(spasi)Yendri kirim ke 6288 #Konte…
+616737534	a_shynta	semua akan terasa indah, bila saat'a tiba	RT @KDI2014_MNCTV: 6 Kontestan masih harus bertarung untuk bisa terus bertahan di #KONTESKDI. Live Pkl 18.00 hanya di @Official_MNCTV http:…
+603927044	_memekbasah	♥ ♥ ♥ ♥ Memek Pengen DiEntottKontol ~  Kontol “Gede…Panjang…Tahan Lama…Berurat” ♥ ♥ ♥ ♥	RT @KDI2014_MNCTV: Warga Medan tidak mau Putra gagal masuk ke babak Kontes KDI?Ayo ketik KDI(spasi)Putra kirim ke 6288 #GerbangKDI http://t…
+562333725	athiesleo		RT @KDI2014_MNCTV: Kejammm..kejammm @TikaKDI2014 Tenggarong #KontesKDI http://t.co/58VQSJFfj7
+527405674	DindaRa8	WHATEVER WHAT  YOU SAY, I DON'T CARE!•Allah,Muhammado:) parents♥ part of @9unggulan1	RT @KDI2014_MNCTV: 5 Peserta Tampil maksimal dengan ambisi untuk menuju KONTES KDI! Malam ini Pk 18.00 #FinalWildCardGerbangKDI. http://t.c…
+520406756	Jen_endriadi	♔ Path™ Jen Endriadi ♔Skype™ JenEndriadi	RT @KDI2014_MNCTV: Air @BuyungKDI2014 Keruh, itu artinya Buyung harus pulang malam ini. Tetap bersinar Buyung #KontesKDI http://t.co/3VS7ZE…
+506641234	BoyNeddy	Ketika hati mulai bicara, coba dengar dan rasakan, kemudian renungkan di akhiri dengan tindakan..	RT @BoyNeddy: @KDI2014_MNCTV Ikan peda di dalam kendi.. mau beda ayo tonton KDI,... Ikan terinya dimakan Ikan Kakap... Juriinya mantaaapp #…
+498426427	dessy_anita	Menjaga hati  slalu untukmu.	RT @KDI2014_MNCTV: Wulan Gregetan nih #DemamKDI http://t.co/zZnDcJNxLV
+330218280	selfinafilah	A singer; an ordinary woman with an extra-ordinary dream, family and friends..	RT @selfinafilah: With @nurjanahikke di acara gerbang kdi 2014 😘 @KDI2014_MNCTV #latepost http://t.co/4c3sQaXCQs
+276399778	Anthony_dangdut	gue orangnya simple baik dan tidak sombong	RT @KDI2014_MNCTV: Mana mungkin sih @TikaKDI2014 pulang? Nah dukung dong Tenggarong, ketik KDI(spasi)Tika kirim ke 6288. #KontesKDI http://…
+258708755	CintyaMelysa	Official Of Cintya Melysa Putri . 11 Mei | 169cm/43kg | Model |FB: Cintya Melysa Putri | Whatsapp  Mention Me |	RT @KDI2014_MNCTV: Jangan sampai Tika gagal ke babak Kontes KDI.Ayo ketik KDI(spasi)Tika kirim ke 6288 #GerbangKDI http://t.co/8QEs5B2QiO
+251410604	Hardianto_AB	Mahasiswa DKV Udinus 2012 |Humas Pasmada semarang | Line : Hardiantopasmada | IG : Hardiantoab  | wechat Antoarvanda | WA +628886187345	RT @KDI2014_MNCTV: Wah @FadlyKDI2014 Batang lagi mencari Sahabat nih #KontesKDI http://t.co/NsJckf709k
+226811590	amaliadk	Enjoy with your live	RT @KDI2014_MNCTV: Serunya bermelayu ala @ThaliaKDI2014 dalam Nirmala #KontesKDI http://t.co/nnzXAFAaT2
+150223562	salamun_dersoyo	Jangan mengabaikan hal sekecil apapun, karena sesuatu yang besar juga dimulai dari hal kecil	RT @KDI2014_MNCTV: Pendukung Mega serius banget dengerin Penasehat komentar.Jangan lupa dukung Mega ya untuk lolos ke kontes #GerbangKDI ht…
+* Expected result:
+Team and Account info
+213602126	Official_MNCTV	MNCTV Official Account - Dangdut, Drama, Animasi, Sport. FP: MNCTV Official. InstaGram: officialmnctv. Youtube : MNCTV Official	RT @KDI2014_MNCTV: Jumpara..jumparaa..setangkai bunga padi kau selipkan dirambutku. Aaaaa...aaaaa..ayeee @ItaKDI2014 #KontesKDI http://t.co…
+246271822	limjingyuan	I Love Cars, Music, Tech, Food, Luxury Watches, Movies, Travel, Sports, Business & Drinking Starbucks #PemiluPresiden 9 Juli 2014	RT @KDI2014_MNCTV: Berhasilkah @BuyungKDI2014 tampil maksimal dgn lagu Anggur Merah dipopulerkan Muchsin Alatas? #KonteaKDI http://t.co/Hkb…
+2481465026	elismanjunaid1	field collection	RT @KDI2014_MNCTV: Yuk malem mingguan bareng @DeniasKDI2014 @UtiPutriKDI2014 @HeraKDI2014 @SyamsirKDI2014 @ItaKDI2014 yuk! #NontonLagiKDI
+2417269314	Chaerunnisanis1		RT @KDI2014_MNCTV: Ketinggalan aksi 16 kontestan KDI 2014? Dan ingin tahu bagaimana penjemputan @IndahKDI2014 terjemput? #NontonLagiKDI htt…
+2427197102	Lesti_AcademyID	Akun Resmi/Official Lesti. Minta dukungannya ya . Dengan Cara Ketik DA (spasi) LESTI kirim ke 7288 sebanyak-banyaknya ya. Tong Hilaapb.	RT @KDI2014_MNCTV: Olaolela...olaolelaaa...@ItaKDI2014 jadi Putri Panggung&amp;Janger #KontesKDI http://t.co/sB3gTdfjOz
+2405208842	satriasupra	Keep Calm	RT @KDI2014_MNCTV: Ita Madura siap jadi Pengobat Rindu malam ini. Tetap stay tune KDI Lovers #KontesKDI http://t.co/d2bSmeT5rI
+1121103128	devipermata55	05_08_1995 | music is my Life | Dangdut song is Lover | reading aL-Quran is my hoby | Life aLways remember to aLLah | Hidup indah bila di jalani dengan baik.	RT @KDI2014_MNCTV: Suasana menjadi haru @BuyungKDI2014 - Surga Ditelapak Kaki Ibu #KontesKDI http://t.co/Dp4uDlZpon
+1014586880	samsiya_izarull	The Official Twitter Account Samsiiya R Icha Safitri I Love Allah , My FamiLy , Nabi&RasuL ALways pray for Mom and Dad	RT @KDI2014_MNCTV: Hihi sambil nunggu giliran, @YendriKDI2014_ terus latihan lho KDI Lovers. Setelah ini ya di #KontesKDI http://t.co/fwiZd…
+810129542870249472	nawra8888	Good communication comes from people to people, but great communication comes from people to ALLAH☺	RT @KDIOffc_MNCTV: Malam ini! Akankah rumah Babe Somad Terjual &amp; dapat melunasi hutangnya? #AADeCiKuatkanHati sekarang https://t.co/T4hQ1uS…
+765483156745039876	hawraarsyad	IG : @hawraaa_aytinglicious Always Support Teteh @aytingnew92 AADeCi Jam 19.00 Hanya Di MNCTV, #supportayutingting #weareaytinglicious #weloveayutingting	RT @KDIOffc_MNCTV: Makin penasaran kan dengan peliknya kehidupan Ayu &amp; keluarganya? Yuk tonton &amp; ramaikan #AADeCiBerjuangHidup sekarang htt…
+3288086565	hawraayting	Real Twitter AyuTingTing only @aytingnew92 (Rose) Follow @aytinglicious The One&Only AyuTing2FC #SupportAyuTingTing IG : @hawraaa_aytinglicious	RT @KDIOffc_MNCTV: Mandala menyuruh Karmun untuk menyingkirkan Andre, Gawat!! Andre dalam bahaya, tolong di #AADeCiPindahRumah pkl 19:… 
+2902555262	puthriechan	Bismillah...Everything is possible as long as we believe. Dream, pray, believe, do, success, happy (Support Ayu Ting Ting) Youtube Channel: AYU TING TING TV	RT @KDIOffc_MNCTV: Nadia masih terus meneror Ayu, malam ini apalagi rencana liciknya? Tonton serunya #AADeCiTetapSemangat pkl 19:00 https:/…
+2549177802	Fitrah_DwiAndir	Saya ngefens bangat sama Irsyad KDI 2014...sampai2 aku nangis waktu aku melihat Irsyad di jemput....	RT @KDI2014_MNCTV: Bang @muclektw kode banget ya mau atau mau gantiin Kang Purwa, hehe. #KontesKDI http://t.co/0sIN8tpPtK
+2495725501	fenty_32957	Musik is my love'is the best...ok	RT @KDI2014_MNCTV: @FadlyKDI2014 Batang terjemput malam ini. Tetap semangat @FadlyKDI2014. CLOSING #KontesKDI http://t.co/weEc13eN1X
+2481796427	IfanMasrifan	Do more....!!!	RT @KDI2014_MNCTV: Nih KDI Lovers, Fardi 'Menunggu' dukungan Indonesia untuk maju ke babak kontes. #GerbangKDi http://t.co/uFTm849hHd
+2473746200	Rian_muaraband	Pnengen jd orang besar tp gk pnya kemampuan	RT @KDI2014_MNCTV: Bangka Belitung dan sekitarnya saatnya dukung @YendriKDI2014_ dengan cara ketik KDI(spasi)Yendri kirim ke 6288 #KontesKDI
+2467746752	Fendy_hacker		RT @KDI2014_MNCTV: @ItaKDI2014 Goyang Karawang kiri kanan. Asyikkk... asyikkk #KontesKDI http://t.co/pByT8OwWci
+2463439309	df5bf2699fb14dc		RT @KDI2014_MNCTV: IRSYAD Majene, tampil dengan Gelora Asmara dipopulerkan oleh @kingnassar88. Jangan lupa dukung ya #GerbangKDI http://t.c…
+2456483838	Denias_JKT	Official fans @DeniasKDI2014 dari Jakarta | ketik KDI (spasi) DENIAS kirim ke 6288 | #SalamDeniUs	RT @KDI2014_MNCTV: Sms dong "@chiungril: Malam ini ak dkung DENIAS dr Cianjur @KDI2014_MNCTV #FinalWildCard"
+2451808093	DoankNurma		RT @KDI2014_MNCTV: Now, @BuyungKDI2014 "Jandaku" #KontesKDI http://t.co/4dzSqEGyxp
+2433537920	rindaputricahya		RT @rindaputricahya: @KDI2014_MNCTV buat denias kmi sll mendukung mu... mantap'' ... oke'' 
+kmi dri p.bun kateng .. sll nobar .. 
+#konteskd…
+2408132000	fiatasep		RT @KDI2014_MNCTV: Selamat Niken mendapat Wild card. Sampai jumpa di wild card. CLOSING #GerbangKDI http://t.co/PP4euuqLy2
+2401718467	wulanda79441359	Be your Self	RT @KDI2014_MNCTV: Persiapan @darkodenny untuk menjemput salah satu kontestan malam ini. Siapa kira-kira? #KontesKDI http://t.co/kadJdPJPaS
+2400997616	putra_sita_7056		RT @KDI2014_MNCTV: LINK Download Formulirnya: http://t.co/ANsrZoOoUC  formnya bisa diapat Online.Tapi pendaftaran tetap harus di tempat aud…
+2380501194	Desijepot	Selalu rindu pantai,gunung,......KeajaibanMu Jepot-Makassar	RT @Desijepot: @KDI2014_MNCTV Keberhasilan para kontestan tdk lepas dr dukungan penuh kepala daerahnya #GerbangKDI @Official_MNCTV
+2378798114	murni_aza		RT @KDI2014_MNCTV: OP @MegaKDI2014_ dengan 1000 alasan #KontesKDI http://t.co/UJl28kbLoX
+2337622682	AkmallAweu	761AFD72	RT @KDI2014_MNCTV: Atau dapatkan Formulir #KDI2014, di Airlangga Sukabumi), Radio Garuda Bandung, Radio Dahlia Bandung, Radio Cakra Bandung…
+2306781990	tuluszz		RT @KDI2014_MNCTV: MEDAN!! Bersiaplah untuk Lahirnya Bintang Dangdut, ikuti audisinya 12 April di Hotel Garuda Plaza. #KDI2014
+2274695028	Syahdalatifa2		RT @KDI2014_MNCTV: Para kontestan tegang menunggu detik-detik penentuan siapa yang akan lolos ke babak Kontes KDI #GerbangKDI http://t.co/h…
+2267538740	asepsamudra85		RT @KDI2014_MNCTV: Hadir sesaat lagi Kania Bandung yang akan mengguncang malam ini &amp; jangan lupa dukung terus ya #GerbangKDI
+2164688605	blekoy1		RT @KDI2014_MNCTV: Heiiiiii...@OQ_Lukman @ayu_lia2104 @kingnassar88 @radotvalent semangat menghibur malam ini #KontesKDI http://t.co/5y8m3X…
+2159989704	onediwandy	Nursing Academy||suka Naruto-Kamen Rider-Power Ranger-Ultraman-Dragon Ball-Doraemon-Shincan-Pokemon-Upinipin||Lahir 5 Maret 1995	RT @KDI2014_MNCTV: Terimakasih sudah nonton #GerbangKDI eps 2, besok masih ada perjuangan Yovita, Indah, Denias, Yati, Mega, Dewi. Live Pk …
+1907331355	Rekaa_Rodriguez	18 august 1996 | lulus UN dgn hasil yg memuaskan | pengen jadi Guru SD  :D | Barcelonista BJM | Marquezer BJM | Denius BJM	RT @KDI2014_MNCTV: Siapa yg mau anggur merahnya @DeniasKDi2014? Dashyatnyaaaa..teganya..teganyaa.. #KontesKDI http://t.co/fA3uyu5tYj
+1582004796	Dede_rana	Dede Rana|Bdg 2 Sept 1993|Line: dede_rana WeChat: dede9604 Kakao: Dede Rana Fb: dederana99@yahoo.com|Music Is My Everything♥	RT @KDI2014_MNCTV: Bener kata Ummi Elvi, Ibu itu Keramat! Doa Ibu itu doa Allah swt. Oh sweet..mendadak sedih ini #KontesKDI
+1511852371	SebatikJumardin		RT @KDI2014_MNCTV: Now OP #KontesKDI! ADEGAN Film Gitar Tua. http://t.co/X8HPOK09qq
+1432557091	LiendaLada	♥friday friend ♥[F]ame famous || Amaxing ||  kelviners||#MitraMania ||Ahmad Nur Hidayat #Lada || mention for follback || unfollow ? unfollback ! :)	RT @KDI2014_MNCTV: Bandungg!! Jangan ragu u/ dukung Koko menuju Final Wild Card. Ketik KDI(Spasi)Koko kirim ke 6288. Pk18.00 #GerbangKDI ht…
+1427606102	MRKikinurjaman	VisiMisi : nge-FOLLOW and Nge-FOLLBACK
+
+| a muslim | capricorn Boy | a student | music | SingleHappy | KeepSmile :) |
+
+Peace And Brotherhood was Beautiful	RT @MRKikinurjaman: Aku paling ngefans sama Bu Bertha, gilaaa bgtt Super pedes tapi membangun dan detail. I love KDI #GerbangKDI @KDI2014_M…
+1329662731	lilybebe_zayn	No more tears No more cry,, :-)	RT @KDIOffc_MNCTV: Claudia siap ungkapkan jadi diri Angelo sebenarnya! Jangan lewatkan #PangakoTheJustice pukul 20.00 https://t.co/sHFX12CK…
+1279699873	Tashifarainia	tashifa fardhinia zuhrain (spongebobo)
+Ilove  اللَّهُ  Ilove muhammad ilove islam (@DeniasKDI2014) I'am DeniUs #SalamDeniUs	RT @KDI2014_MNCTV: Apa iya ada Cinta Segitiga antara @DeniasKDI2014 @ThaliaKDI2014 @SyamsirKDI2014? #KontesKDI http://t.co/GcN1wrkPly
+1167690224	adnenzRama29	█ 10%██ 20%███ 30%████ 40%█████ 50%██████ 60% ███████ 70%████████ 80 %█████████ 90%Loading . . ███████████100%(Always Love Stefy and Raisa)	RT @KDI2014_MNCTV: Akan hadir setelah commercial break Thalia Jakarta jangan sampai kehilangan dukungan. Ayo sms terus sebanyak-banyak ya #…
+935842382	aderesfika	Ig: Resfikaade pin: 7cdd981b ♥Minions ♥RealMadrid	RT @KDI2014_MNCTV: Persaiangan antar 4 kontestan makin PANAS!! Siapa yg akan terus melaju ke FINAL? Malam ini Pkl 19.00 #KONTESKDI http://t…
+921241206	AdamZFR	ManchesterUnitedFC•	RT @KDI2014_MNCTV: Dengan bangga, memperkenalkan 16 kontestan KDI 2014. 10 menit menuju Kontes KDI 2014. PERDANA malam ini #KontesKDI http:…
+913060010	solid_roy	YANG LALU BIARLAH JADI Berlalu,LANGKAHKAN KAKIMU KEDEPAN UNTUK MASA DepAN MU YG cERIA	RT @KDI2014_MNCTV: Dengerin Magadirnya UtiPutri tenang dan sejuk banget ya. Medan jangan lupa dukung ya #GerbangKDI http://t.co/Q58pYjGWpS
+841251998	dya_isty	simple	RT @KDI2014_MNCTV: MegaNP sedang "Bisik-Bisik Tetangga" nih tweeps #GerbangKDI http://t.co/X7hgeLxMFv
+737935729	berlin_ET	Ig: berlinemilda	RT @KDI2014_MNCTV: Selamat untuk Mega dan Indah lolos ke babak Kontes KDI.Siapa yg akan mendapat wild card? #GerbangKDI http://t.co/rnHgXAP…
+720420186	aniezalief	Alumni (SDN KAPOTAYUDHA 1 MAKASSAR) (SMPN 1 MAKASSAR) (SMK NEGERI 1 MAKASSAR)  n Academy of Nursing PELAMONIA KESDAM VII / WIRABUANA	RT @KDI2014_MNCTV: Wah ada kejutan buat @IfanKDI2014 nih, ada ayah Mansyur S. Hohohoho, cuma di #KontesKDI http://t.co/SfB0UF4ZsM
+630110222	adrieadri	entertaiment	RT @KDI2014_MNCTV: Inilah 16 kontestan Kontes KDI yang akan tampil besok malam #GERBANGKDI http://t.co/IXiRZk5GC5
+618750863	rimaniyah3196		RT @KDI2014_MNCTV: Bangka Belitung waktunya dukung @YendriKDI2014_ agar tidak terjemput.Caranya ketik KDI(spasi)Yendri kirim ke 6288 #Konte…
+616737534	a_shynta	semua akan terasa indah, bila saat'a tiba	RT @KDI2014_MNCTV: 6 Kontestan masih harus bertarung untuk bisa terus bertahan di #KONTESKDI. Live Pkl 18.00 hanya di @Official_MNCTV http:…
+603927044	_memekbasah	♥ ♥ ♥ ♥ Memek Pengen DiEntottKontol ~  Kontol “Gede…Panjang…Tahan Lama…Berurat” ♥ ♥ ♥ ♥	RT @KDI2014_MNCTV: Warga Medan tidak mau Putra gagal masuk ke babak Kontes KDI?Ayo ketik KDI(spasi)Putra kirim ke 6288 #GerbangKDI http://t…
+562333725	athiesleo		RT @KDI2014_MNCTV: Kejammm..kejammm @TikaKDI2014 Tenggarong #KontesKDI http://t.co/58VQSJFfj7
+527405674	DindaRa8	WHATEVER WHAT  YOU SAY, I DON'T CARE!•Allah,Muhammado:) parents♥ part of @9unggulan1	RT @KDI2014_MNCTV: 5 Peserta Tampil maksimal dengan ambisi untuk menuju KONTES KDI! Malam ini Pk 18.00 #FinalWildCardGerbangKDI. http://t.c…
+520406756	Jen_endriadi	♔ Path™ Jen Endriadi ♔Skype™ JenEndriadi	RT @KDI2014_MNCTV: Air @BuyungKDI2014 Keruh, itu artinya Buyung harus pulang malam ini. Tetap bersinar Buyung #KontesKDI http://t.co/3VS7ZE…
+506641234	BoyNeddy	Ketika hati mulai bicara, coba dengar dan rasakan, kemudian renungkan di akhiri dengan tindakan..	RT @BoyNeddy: @KDI2014_MNCTV Ikan peda di dalam kendi.. mau beda ayo tonton KDI,... Ikan terinya dimakan Ikan Kakap... Juriinya mantaaapp #…
+498426427	dessy_anita	Menjaga hati  slalu untukmu.	RT @KDI2014_MNCTV: Wulan Gregetan nih #DemamKDI http://t.co/zZnDcJNxLV
+330218280	selfinafilah	A singer; an ordinary woman with an extra-ordinary dream, family and friends..	RT @selfinafilah: With @nurjanahikke di acara gerbang kdi 2014 😘 @KDI2014_MNCTV #latepost http://t.co/4c3sQaXCQs
+276399778	Anthony_dangdut	gue orangnya simple baik dan tidak sombong	RT @KDI2014_MNCTV: Mana mungkin sih @TikaKDI2014 pulang? Nah dukung dong Tenggarong, ketik KDI(spasi)Tika kirim ke 6288. #KontesKDI http://…
+258708755	CintyaMelysa	Official Of Cintya Melysa Putri . 11 Mei | 169cm/43kg | Model |FB: Cintya Melysa Putri | Whatsapp  Mention Me |	RT @KDI2014_MNCTV: Jangan sampai Tika gagal ke babak Kontes KDI.Ayo ketik KDI(spasi)Tika kirim ke 6288 #GerbangKDI http://t.co/8QEs5B2QiO
+251410604	Hardianto_AB	Mahasiswa DKV Udinus 2012 |Humas Pasmada semarang | Line : Hardiantopasmada | IG : Hardiantoab  | wechat Antoarvanda | WA +628886187345	RT @KDI2014_MNCTV: Wah @FadlyKDI2014 Batang lagi mencari Sahabat nih #KontesKDI http://t.co/NsJckf709k
+226811590	amaliadk	Enjoy with your live	RT @KDI2014_MNCTV: Serunya bermelayu ala @ThaliaKDI2014 dalam Nirmala #KontesKDI http://t.co/nnzXAFAaT2
+150223562	salamun_dersoyo	Jangan mengabaikan hal sekecil apapun, karena sesuatu yang besar juga dimulai dari hal kecil	RT @KDI2014_MNCTV: Pendukung Mega serius banget dengerin Penasehat komentar.Jangan lupa dukung Mega ya untuk lolos ke kontes #GerbangKDI ht…
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2440927201&type=retweet&phrase=を&hashtag=青い池
+* Response code: 200 OK
+* Your result:
+Team and Account info
+50771546	SoftBank	ソフトバンク公式Twitterアカウントです。新商品やイベント、キャンペーン、エリア拡充情報など、ソフトバンクグループのさまざまな情報をお届けします。 　※ご意見に対する個別回答等は控えさせていただきます。	RT @SoftBank: 季節や時間、天気によって色を変える #青い池（北海道美瑛町）。
+現在は一面雪化粧し、夜はライトアップで幻想的な雰囲気を醸し出しています。
+
+エリア拡充を記念して #丘のまちびえい特産品セット を15名さまにプレゼント♫…
+* Expected result:
+Team and Account info
+50771546	SoftBank	ソフトバンク公式Twitterアカウントです。新商品やイベント、キャンペーン、エリア拡充情報など、ソフトバンクグループのさまざまな情報をお届けします。 　※ご意見に対する個別回答等は控えさせていただきます。	RT @SoftBank: 季節や時間、天気によって色を変える #青い池（北海道美瑛町）。
+現在は一面雪化粧し、夜はライトアップで幻想的な雰囲気を醸し出しています。
+
+エリア拡充を記念して #丘のまちびえい特産品セット を15名さまにプレゼント♫… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2203902708&type=retweet&phrase=albergue%20animales%20necesitan&hashtag=valparaiso
+* Response code: 200 OK
+* Your result:
+Team and Account info
+155408802	cachupines	Salvar a un animal quizás no cambiará el mundo; pero, para ese animal, el mundo cambiará para siempre	RT @cachupines: #Valparaiso 
+#playaancha URGENTE ESTAN COLAPASADOS EN ALBERGUE DE ANIMALES, SE NECESITAN VETERINARIOS YA! SIGUEN LL…
+2546899741	callejeritosDLV	Callejeritos de la vega Somos una organización comunitaria cuyo objetivo es lograr leyes de Protección Animal, educar para el buen trato y denunciar el maltrato	RT @callejeritosDLV: terry aun sigue perdido #nunoa #providencia #macul @CanalAnimal #canaldepelos https://t.co/N2zAXEKLLY
+2228499827	patrmarsh	#ρυвℓιcιsтα 1,68 ∂ε ρεsα∂εz ү sιмραтíα, ρяσмυεvσ ℓα #тεηεηcιαяεsρσηsαвℓε, ℓσcα ρσя ℓσs ρεяяσs, sι тε cαιgσ мαℓ ησ мε ℓεαs, sιgυε ∂ε ℓαяgσ. #ησмεεησנσ #мεdαℓαωεα	RT @patrmarsh: #PuenteAlto ayuda 
+#TwitterosSolidarios se busca a 
+#Lulu extraviada este 20 de diciembre, sin id ni chip.
+Comparti…
+* Expected result:
+Team and Account info
+155408802	cachupines	Salvar a un animal quizás no cambiará el mundo; pero, para ese animal, el mundo cambiará para siempre	RT @cachupines: #Valparaiso 
+#playaancha URGENTE ESTAN COLAPASADOS EN ALBERGUE DE ANIMALES, SE NECESITAN VETERINARIOS YA! SIGUEN LL… 
+2546899741	callejeritosDLV	Callejeritos de la vega Somos una organización comunitaria cuyo objetivo es lograr leyes de Protección Animal, educar para el buen trato y denunciar el maltrato	RT @callejeritosDLV: terry aun sigue perdido #nunoa #providencia #macul @CanalAnimal #canaldepelos https://t.co/N2zAXEKLLY
+2228499827	patrmarsh	#ρυвℓιcιsтα 1,68 ∂ε ρεsα∂εz ү sιмραтíα, ρяσмυεvσ ℓα #тεηεηcιαяεsρσηsαвℓε, ℓσcα ρσя ℓσs ρεяяσs, sι тε cαιgσ мαℓ ησ мε ℓεαs, sιgυε ∂ε ℓαяgσ. #ησмεεησנσ #мεdαℓαωεα	RT @patrmarsh: #PuenteAlto ayuda 
+#TwitterosSolidarios se busca a 
+#Lulu extraviada este 20 de diciembre, sin id ni chip.
+Comparti… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2389628036&type=retweet&phrase=filha&hashtag=aquário
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+1558141890	VoceNaoSabiaQ	Curiosidades, fotos e fatos interessantes sobre o mundo e as pessoas que provavelmente você não sabia.  
+Contato: vocenaosabiaq@hotmail.com	RT @VoceNaoSabiaQ: #VoceNaoSabiaQ Júlia: é a variante feminina de Júlio e significa “fofa”, “macia”, “felpuda”, "jovem" ou “filha de Júpite…
+57022252	SignosFodas	Maior Twitter de signos do Brasil. 🇧🇷   Seu signo atualizado todos os dias. 🌎
+@NicholasReiDoTT	RT @SignosFodas: #Aquário"Sorrir, chorar, sentir saudade.. Tudo isso faz parte, quando se ama"
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=21434850&type=retweet&phrase=atudor%20nasa%20computers&hashtag=hiddenfigures
+* Response code: 200 OK
+* Your result:
+Team and Account info
+21434850	atudor27	#Mainframe Service Integration Leader @IBM #IBM 
+#Cloud #Analytics #Mobile #Social #Security #Data #BlueMix #Leadership 
+#FF
+Views & opinions are my own	RT @atudor27: #IBM reveals five life-changing innovations https://t.co/x4HxygYCI2 https://t.co/YkzznwCuv9
+740036245238095875	JoginderKD	Sr. Consultant @IBM, #IBMer, IBM'bassador || Traveler, Writer, more to come (Tweets are my own)	RT @atudor27: Did you know that design thinking originates from coding? @LouiseHemond of @IBMSLST explains #DesignThinking…
+* Expected result:
+Team and Account info
+21434850	atudor27	#Mainframe Service Integration Leader @IBM #IBM 
+#Cloud #Analytics #Mobile #Social #Security #Data #BlueMix #Leadership 
+#FF
+Views & opinions are my own	RT @atudor27: #IBM reveals five life-changing innovations https://t.co/x4HxygYCI2 https://t.co/YkzznwCuv9
+740036245238095875	JoginderKD	Sr. Consultant @IBM, #IBMer, IBM'bassador || Traveler, Writer, more to come (Tweets are my own)	RT @atudor27: Did you know that design thinking originates from coding? @LouiseHemond of @IBMSLST explains #DesignThinking… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1917647058&type=both&phrase=fútbol%20fantástico&hashtag=maradona
+* Response code: 200 OK
+* Your result:
+Team and Account info
+249345746	La12tuittera	Somos hinchas de Boca Juniors que seguimos por Twitter al club mas grande del Mundo. Mucha Información y un poco de humor #la12twittera #BocaElUnicoGrande	RT @La12tuittera: #Maradona "Como jugador de fútbol, me parece fantástico que #Tevez vaya a China, pero como hincha, NO, porque lo pe…
+* Expected result:
+Team and Account info
+249345746	La12tuittera	Somos hinchas de Boca Juniors que seguimos por Twitter al club mas grande del Mundo. Mucha Información y un poco de humor #la12twittera #BocaElUnicoGrande	RT @La12tuittera: #Maradona "Como jugador de fútbol, me parece fantástico que #Tevez vaya a China, pero como hincha, NO, porque lo pe… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1345881127&type=retweet&phrase=highlights&hashtag=starwarsrebels
+* Response code: 200 OK
+* Your result:
+Team and Account info
+20106852	starwars	The official home of Star Wars on Twitter.	RT @starwars: You're in the right place for 10 highlights from #StarWarsRebels' mid-season 3 trailer. What are you excited for?…
+* Expected result:
+Team and Account info
+20106852	starwars	The official home of Star Wars on Twitter.	RT @starwars: You're in the right place for 10 highlights from #StarWarsRebels' mid-season 3 trailer. What are you excited for?… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2468677020&type=both&phrase=magcon%20tay&hashtag=mañanajuegaracing
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+3393361252	jdbmpiola		RT @argjbrc: LOS MOMENTOS QUE VIVI TODO LO QUE YO DEJE POR SEGUIR A LA ACADEMIA NADIE LO PUEDE ENTENDER  #MañanaJuegaRacing
+704871192763764742	tourmagconarg	organizamos tts y campañas para cumplir el sueño de muchas, magcon en argentina.	RT @tourmagconarg: QUEREMOS A MAGCON EN ARGENTINA TANTO COMO TAY A SUS VIATICOS #MagconComeToArg
+339346433	mythoughtofjb	jb me sigue || cabj || jb || #CHUPAD4S ||             believe tour • 10 de noviembre de 2013	RT @mythoughtofjb: no puedo entender y no me entra en la cabeza que sean la misma persona #MTVHottest justin bieber http://t.co/3Maein8TbX
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=170622863&type=both&phrase=enhanced%20protective&hashtag=asgservicesuk
+* Response code: 200 OK
+* Your result:
+Team and Account info
+354404934	ChrisHopkirk1		RT @ASGServicesUK: #ASGservicesUK, line marking by shot blasting. #Warehouse #UKMFG https://t.co/pTMILQbsrY
+3972085756	Six_Base		RT @ASGServicesUK: Modern alternative to anti-collapse mesh at the back of #racks, an enhanced #protective safety barrier. #UKMFG…
+* Expected result:
+Team and Account info
+354404934	ChrisHopkirk1		RT @ASGServicesUK: #ASGservicesUK, line marking by shot blasting. #Warehouse #UKMFG https://t.co/pTMILQbsrY
+3972085756	Six_Base		RT @ASGServicesUK: Modern alternative to anti-collapse mesh at the back of #racks, an enhanced #protective safety barrier. #UKMFG… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=204891357&type=both&phrase=ozil%20pogba&hashtag=thfc
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+296254695	JakeSanders92	Freelance Sports Writer.	RT @JakeSanders92: Kyle Walker now has more Premier League assists (5) this season than David Silva (4), Mesut Ozil &amp; Paul Pogba (3). #THFC
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1574753078&type=retweet&phrase=worm&hashtag=17caratselcaday
+* Response code: Non HTTP response code: java.net.SocketTimeoutException Non HTTP response message: Read timed out
+* Your result:
+Team and Account info
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:850)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:561)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:67)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1282)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1271)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:627)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:551)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:490)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:257)
+	at java.lang.Thread.run(Thread.java:750)
+
+* Expected result:
+Team and Account info
+2953998554	ultschan	the ugliest chan stan	RT @wonugf: milk and honey #17CaratSelcaDay #CaratSelcaDay https://t.co/voTUGEaXoK
+2338141255	cheoldefense	@pledis_17 @CORIDEL_Ent	RT @wonugf: #CONFIRMED sarah twt user cheoldefense is a Worm! do not be fooled…… 😳
+1673832943	Nialluniverse1D	I like when boys are Niall	RT @NiallUniverse1D: #FOLLOWTRICK
+$ FOLLOW ME :) 
+$ I FOLLOW BACK
+$ FOLLOW EVERYONE
+$ RT THIS
+$ GAIN 
+
+Fav if you want to be mentioned
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1337582564&type=both&phrase=eng%20sub&hashtag=ztao
+* Response code: 200 OK
+* Your result:
+Team and Account info
+1950446623	TAO_ID	黄子韬 ❤ fanbase of Chinese rapper, singer & actor Huang Zitao from Indonesia. bring you daily updates about Z.TAO ❤ project: @ZTAO_INA ❤ official line: @TSV0860Y	RT @TAO_ID: [WEIBO] 150811 邵欣78 (SEweekly Magz Photographer) update with #ZTAO (4)
+http://t.co/61iSQEXOqj
+http://t.co/iQApTZKWQL http://t.c…
+3921072794	haetbitmark	🕊💚 갓칠만. 햇빛처럼 빛나는 마크 아주 많이 좋아해. AHGAWINGS.	RT @haetbitmark: JB's 2017 goals:
+#TeamGOT7 #BestLeaderJBDay https://t.co/4rsownAXzd
+2894961877	GOT7JBPH	✨ For the one and only ㅈㅂ ✨ | 01061994 | 01302012 | 05192012 | 01162014 | 06232015 | ✨ Email us at imjaebumphilippines@gmail.com	RT @GOT7JBPH: Happy Birthday to the best leader!!! 😍🎉🎂💞 #BestLeaderJBDay #TeamGOT7
+
+This is the original video created for…
+859110584	fabshun	It's not easy as you thought to handle 12 boys	RT @fabshun: reading this . I just really wishing for this
+
+chen why did you must made me cry by your words
+
+#WeMissYouKris http://t.co/obD…
+206145339	daisyyfields	ENG| 中| 한 💚 내 세상에 갓세븐 매일 특별해🐣 #GOT7 | Masterlist of trans and subs down in the link below~	RT @daisyyfields: [ENG SUB] 090117 Jackson Crime Scene 2 photoshoot bts❤️🔫🕵🏻
+
+FULL: https://t.co/iRrf2smkQC
+
+#JacksonWang #GOT7 #갓세븐…
+* Expected result:
+Team and Account info
+1950446623	TAO_ID	黄子韬 ❤ fanbase of Chinese rapper, singer & actor Huang Zitao from Indonesia. bring you daily updates about Z.TAO ❤ project: @ZTAO_INA ❤ official line: @TSV0860Y	RT @TAO_ID: [WEIBO] 150811 邵欣78 (SEweekly Magz Photographer) update with #ZTAO (4)
+http://t.co/61iSQEXOqj
+http://t.co/iQApTZKWQL http://t.c…
+3921072794	haetbitmark	🕊💚 갓칠만. 햇빛처럼 빛나는 마크 아주 많이 좋아해. AHGAWINGS.	RT @haetbitmark: JB's 2017 goals:
+#TeamGOT7 #BestLeaderJBDay https://t.co/4rsownAXzd
+2894961877	GOT7JBPH	✨ For the one and only ㅈㅂ ✨ | 01061994 | 01302012 | 05192012 | 01162014 | 06232015 | ✨ Email us at imjaebumphilippines@gmail.com	RT @GOT7JBPH: Happy Birthday to the best leader!!! 😍🎉🎂💞 #BestLeaderJBDay #TeamGOT7
+
+This is the original video created for… 
+859110584	fabshun	It's not easy as you thought to handle 12 boys	RT @fabshun: reading this . I just really wishing for this
+
+chen why did you must made me cry by your words
+
+#WeMissYouKris http://t.co/obD…
+206145339	daisyyfields	ENG| 中| 한 💚 내 세상에 갓세븐 매일 특별해🐣 #GOT7 | Masterlist of trans and subs down in the link below~	RT @daisyyfields: [ENG SUB] 090117 Jackson Crime Scene 2 photoshoot bts❤️🔫🕵🏻
+
+FULL: https://t.co/iRrf2smkQC
+
+#JacksonWang #GOT7 #갓세븐… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=1681017498&type=both&phrase=年後も仲良くしてそう%20幹事は%20元魔法少女ラブリンと&hashtag=ここ逃げ
+* Response code: 200 OK
+* Your result:
+Team and Account info
+463654379	chaki_1000sun3	フィリピンに語学留学から帰ってきました＊元保育士＊どきどきわくわくすること大好き＊旅する保育士を名乗りたい＊心臓より先に好奇心が動いてます	RT @marukado_band: 昨日は、#ここ逃げ メンバーが初めて貌を合わせた日ということで、月曜日だってのに新年会と決め込んで参りました！
+知り合ってまだ１年なんだよなあ。１０年来の親友みたいだし２０年後も仲良くしてそう。
+
+幹事は、元魔法少女ラブリンと、魔…
+* Expected result:
+Team and Account info
+463654379	chaki_1000sun3	フィリピンに語学留学から帰ってきました＊元保育士＊どきどきわくわくすること大好き＊旅する保育士を名乗りたい＊心臓より先に好奇心が動いてます	RT @marukado_band: 昨日は、#ここ逃げ メンバーが初めて貌を合わせた日ということで、月曜日だってのに新年会と決め込んで参りました！
+知り合ってまだ１年なんだよなあ。１０年来の親友みたいだし２０年後も仲良くしてそう。
+
+幹事は、元魔法少女ラブリンと、魔… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=2315826595&type=retweet&phrase=dom%20lawson%20babymetal&hashtag=nowplaying
+* Response code: 200 OK
+* Your result:
+Team and Account info
+1530033284	FM802_PR	大阪のラジオ局FM802の公式アカウント。 関西では、PC・スマホでも聴けます→https://t.co/jA4CRwe663 
+※内容は変更される事があります。 
+
+▽メッセージ・リクエスト→https://t.co/ZjRIjuL2en
+
+▽質問・お問い合わせは→https://t.co/AtgjW7J2dh	RT @FM802_PR: Walkin’Talkin’-徒然ダイアローグ- 
+1月はMAMI(SCANDAL) ×片平里菜の対談を毎週オンエア！
+初回放送は1月1日21時～！#FM802 @scandal_band @katarina_81 
+聴く→…
+18229605	Dom_Lawson	Writer, musician, metalhead. Editor-At-Large @MetalHammer. Dad. Hammer. Disc jockey. Stoner. Twat. @Oaf_Twits #TheDompilationTapes. Belongs to @Char_G_ 3	RT @Dom_Lawson: #nowplaying @BABYMETAL_JAPAN - Babymetal
+* Expected result:
+Team and Account info
+1530033284	FM802_PR	大阪のラジオ局FM802の公式アカウント。 関西では、PC・スマホでも聴けます→https://t.co/jA4CRwe663 
+※内容は変更される事があります。 
+
+▽メッセージ・リクエスト→https://t.co/ZjRIjuL2en
+
+▽質問・お問い合わせは→https://t.co/AtgjW7J2dh	RT @FM802_PR: Walkin’Talkin’-徒然ダイアローグ- 
+1月はMAMI(SCANDAL) ×片平里菜の対談を毎週オンエア！
+初回放送は1月1日21時～！#FM802 @scandal_band @katarina_81 
+聴く→… 
+18229605	Dom_Lawson	Writer, musician, metalhead. Editor-At-Large @MetalHammer. Dad. Hammer. Disc jockey. Stoner. Twat. @Oaf_Twits #TheDompilationTapes. Belongs to @Char_G_ 3	RT @Dom_Lawson: #nowplaying @BABYMETAL_JAPAN - Babymetal
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=140778373&type=retweet&phrase=bharat%20bandh&hashtag=iamwithmodi
+* Response code: 200 OK
+* Your result:
+Team and Account info
+741562726288351232	JagratiShukla29	Ex-ETV, Nationalist, Journalist, Egalitarian, MUFC fan,Tweets =Personal Opinion, RT ≠ endorsement JAI HIND Mail: shukla.jagi@gmail.com	RT @JagratiShukla29: Common Man supports #DeMonetisation says #IAmWithModi 
+Doesnt care about Bharat Bandh #janakroshdiwas…
+* Expected result:
+Team and Account info
+741562726288351232	JagratiShukla29	Ex-ETV, Nationalist, Journalist, Egalitarian, MUFC fan,Tweets =Personal Opinion, RT ≠ endorsement JAI HIND Mail: shukla.jagi@gmail.com	RT @JagratiShukla29: Common Man supports #DeMonetisation says #IAmWithModi 
+Doesnt care about Bharat Bandh #janakroshdiwas… 
+
+===== Greetings from your beloved TAs ======
+* Wrong result for user_id=164202562&type=both&phrase=innocent&hashtag=selfdetermination
+* Response code: 200 OK
+* Your result:
+Team and Account info
+773456922758504449	pedroma2712		RT @jim3love: #TyrantBuhari &amp; his killer squard, #DSS must stop kidnapping &amp; Killing #poor &amp; #innocent #Biafrans. Stand up &amp; defend #Biafra…
+715981182375223296	ifezue4u2	All hail Biafra! land of the risi. we are all here to do one thing,and that is to get Biafra. we all must keep moving. Am a Biafran,a freedom fighter. God bless	RT @jim3love: I am a #Biafran. I am not a #Biafra supporter or pro-Biafra but a #Biafran. My homeland, nation &amp; country is #Biafra. #FreeBi…
+818605840102027264	ONYEANUSIBONAV1	#FREEDOM #FIGHTER #BIAFRA #OR #NOTHING #NO #BIAFRA #NO #PEACE #BIAFRA #OR #DEATH #FROM #ANAMBRA #AGULUZIGBO STOCKHOLMSWEDEN BIAFEXIT #REFERENDUM MAZI#NNAMDIKANU	RT @jim3love: #DictatorBuhari ordered his #foolani herdsmen to slaughter #poor people in Kaduna thereby Killing more 800 people. He is a ma…
+3669452654	Kingszybiafra	Doing what I am born for, letting the world no that #BiafraExist
+#FreeBiafra #FreeNnamdiKanu #SupportBiafra #BiafrExit #JusticeForNnamdiKanu	RT @jim3love: @MoscowTimes , #SelfDetermination is a universal law. So, #Biafrans ve right to restore #Biafra. #FreeBiafra. https://t.co/4Q…
+354778701	EmekaGift	Born to do what am doing. #FreeBiafra #Biafra  #Activist, #NnamdiKanu #SupportBiafra #FreeNnamdiKanu #EmekaGift Founder @FamilyWriters1 https://t.co/svXyx8mY9n	RT @EmekaGift: Why is the #UN so consistently anti-Israel? --#TerryPaulson #FreeBiafra #StopBiafraKillings https://t.co/hnho07BQRF…
+1586941430	uchecy3		RT @jim3love: Queen Elizabeth of England &amp; her Gov armed Yakubu Gowon &amp; Awolowo with war planes with which they killed #Biafran children &amp;…
+797779017311158273	GeorgeIbekwe9	News General News Politics	RT @jim3love: #Biafrans, continue. Don't look back, we re on d winning side. #Biafra has emerged. Stand up &amp; be counted. #Biafra or death.
+4879308394	dekingc32		RT @jim3love: We must continue to expose, shame &amp; disgrace #DictatorBuhari for what he is. #DictatorBuhari is a mass murderer. He must stop…
+3515524635	obitex10105		RT @jim3love: #Free #NnamdiKanu, other #Biafrans, #FreeBiafra.
+#Biafrans ve right to #SelfDetermination.
+#StopBiafrakillings.
+@mashable , @…
+2178797168	cliffiroanya		RT @cliffiroanya: @RepEdRoyce Britain-cum-Nigeria sponsored genocide on #BIAFRA exposed. Watch this: https://t.co/DXsVMmEAGt
+809516012089577472	Ejikeedeh7		RT @jim3love: Stand up &amp; defend d right of #Biafra to #SelfDetermination. Say #No to secret trial, say #No to masquerades witnesses.
+#StopB…
+3350465793	DiksMeks		RT @jim3love: Today 12/01/17 is another day as Mazi #NnamdiKanu continue to shame &amp; expose #PedophileBuhari d African #Hitler. #FreeBiafra.
+2338239848	kaluagwu12	Indigenous People Of Biafra	RT @jim3love: Mazi #NnamdiKanu &amp; other #Biafrans'll never be subjected to secret trial. #NO masquerade will stand before Mazi #NnamdiKanu &amp;…
+742149367562264576	dubeluvky		RT @jim3love: Tell d zoo niGEria #DSS to free these #innocent #Biafrans they kidnapped. No backing down. It is… https://t.co/Z9KmtcVcdI
+760874198084575232	benedict_sam6		RT @jim3love: Tell #PedophileBuhari dat Mazi #NnamdiKanu &amp; other #Biafrans re #innocent &amp; must be freed. #Biafrans ve inalienable right to…
+786525346191388672	ChibuchiBlessed		RT @jim3love: #Biafrans far &amp; near will storm d court tomorrow 10/01/17 to cheer d leader of #IPOB /#Biafra Mazi #NnamdiKanu. Stand up &amp; de…
+804228562697887744	NwaChukwuokike	Biafra is my home!!!!	RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free #Biafra. @cnni , @CNN , @BBCW…
+140178615	chukzy40	A Biafran, Arsenal ⚽️ #StopBiafraKillings #FreeNnamdiKanu #FreeBiafra🙏🙏 #TRUMP #MAGA	RT @jim3love: #TyrantBuhari must stop kidnapping &amp; Killing #innocent #Biafrans. #Biafrans ve inalienable right to #SelfDetermination. #Biaf…
+720116425852108800	nwokolo_leo		RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free #Biafra. @TelegraphNews , @IB…
+2716396878	Amaka_Ekwo	An educator, songwriter and singer. Worship CHUKWU OKIKE ABIAMA. Preach the restoration of Great #Biafra; beautiful African nation. #FreeNnamdiKanu #FreeBiafra	RT @Amaka_Ekwo: @UN_Spokesperson 
+Biafrans can't continue to live with Islamist #terrorists from Northern Nigeria.
+Support…
+806877672987041792	Emeka07080728		RT @jim3love: #Biafrans will mark President Trump inauguration with pomp &amp; pageantry. #Igweocha (PortHarcourt) #Biafra land is d venue. #Bi…
+801734208817336320	emmysma10655946	biafra is my origin	RT @jim3love: @mike_pence , #DictatorBuhari d zoo niGEria president is kidnapping &amp; Killing #innocent #Biafrans. Help free #Biafra.
+2196753756	godwin_nwaugo		RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS must stop kidnapping &amp; Killing #innocent #Biafrans. Stand up &amp; defend d right of…
+806254171	ONYEANUSIBONAVE	#Single #LifeIsGood (E-Mail-amaaonye4@gmail.com) (From ANAMBRA IN AGULUZIGBO IN BIAFRA LAND) Live in STOCKHIM SWEDEN!
+facebook/Onyeanusi Bonaventure Amanchukwu	RT @jim3love: #Free #NnamdiKanu, other #Biafrans. #FreeBiafra.
+#Biafrans ve inalienable right to #SelfDetermination.
+#StopBoafrakillings.
+@…
+2924527836	Assortedik	Africa voices. Human rights advocate #hra. In love with #Biafra and the Africa culture	RT @jim3love: Tell d zoo niGEria #DSS to free these #innocent #Biafrans they kidnapped. No backing down. It is… https://t.co/Z9KmtcVcdI
+377334328	ejie1enter	Nnamdi Kanu is my hero	RT @jim3love: #TyrantBuhari d #foolani herdsman #terrorist &amp; his killer squard, #DSS must stop kidnapping &amp; Killing #poor #Biafrans. #Biafr…
+720768068838764544	onyiimma66		RT @jim3love: Mazi #NnamdiKanu &amp; other #Biafrans'll never be subjected to secret trial. #NO masquerade will stand before Mazi #NnamdiKanu &amp;…
+544874430	kingsley198527	Biafra	RT @jim3love: #Biafra is my religion, #RadioBiafra is where I worship&amp; #ChukwuOkikeAbhiama is my God. #Free #NnamdiKanu, other #Biafrans, #…
+1269273930	DonaldOtis2		RT @jim3love: #TyrantBuhari d African #Hitler must stop kidnapping &amp; killing #innocent #Biafrans. #Biafrans ve inalienable right to #SelfDe…
+817511167073472512	TonyUzoma3		RT @jim3love: The #British Gov &amp; d zoo niGEria #DSS re collaborating in kidnapping &amp; assassinating #innocent #Biafrans/#IPOB members. #Free…
+3388863615	IIhetu	freedom for Biafra	RT @jim3love: The case of Mazi #NnamdiKanu d #IPOB/#Biafra leader had been adjourned to 12th Jan, 2017 SD he roared in court. #Biafra or de…
+815130387370283010	RickJon92122176		RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free#Biafra. @unfoundation , @UN_S…
+800811627700305920	newchineke4Biaf	I WALK BIAFRA I TALK BIAFRA AND SLEEP BIAFRA MY MISSION IS TO RESTORE BIAFRA UNDER #IPOB LEADS BY MAZI NNAMDI KANU.ALL HAIL BIAFRA	RT @jim3love: Without d weapons from Queen Elizabeth of England Yakubu Gowon &amp; Obafemi Awolowo wouldn't ve killed 6 million #Biafrans b/w 1…
+2873768027	benakabogu	an Oblate of St Benedict and good lover of freedom and a living BIAFRAN! lam a very big friend of ISRAEL!	RT @jim3love: Queen Elizabeth &amp; #British Gov was d reason Yakubu Gowon &amp; Obafemi Awolowo murdered 6 million #Biafrans in cold blood. #FreeB…
+817216481465405442	egbema2000	Binaebi E from Delta state BIAFRA LAND living in Finland permanently	RT @jim3love: #TyrantBuhari &amp; his #DSS re kidnapping &amp; Killing #innocent &amp; poor #Biafrans. Stand up &amp; defend d right of #Biafrans to #SelfD…
+3284207192	Sunny17985220		RT @jim3love: The zoo &amp; contraption (niGEria) has expired. #Biafrans don't need stupid preaching from Satan of Sokoto, thief Obasanjo &amp; #Ty…
+3351077182	nonsoc42		RT @jim3love: #PedophileBuhari d African #Hitler has no business going to fight war in Gambia. He has no democratic credentials. He is a #g…
+713419521055395840	ChChibuike		RT @jim3love: #TyrantBuhari must stop shooting &amp; killing #innocent #Biafrans. #Biafrans ve right to #SelfDetermination. 
+#StopBiafrakilling…
+817379174402949122	anosike120		RT @jim3love: Queen Elizabeth of England has been involving in d Killing of #poor &amp; #innocent #Biafrans since 1966 till death. She is a blo…
+811452746905751552	JideoforBiafra		RT @jim3love: @AmnestySARO , @AmnestyIsrael , #DictatorBuhari d zoo niGEria president must stop kidnapping &amp; Killing #poor #Biafrans. #Free…
+3346461694	emperorromero23		RT @jim3love: #TyrantBuhari d African #Hitler cowardly ran away from #Enugwu #Biafra land yesterday 22/12/16. To hell with d idiot.
+4697451428	Pam_Phillip	For freedom of mankind and green earth.Follow us on breaking news.	RT @jim3love: #DictatorBuhari must stop kidnapping &amp; Killing #innocent #Biafrans. #Biafrans ve inalienable right to #SelfDetermination. #Fr…
+432199946	Coolvitus	What is peace there is no peace without war	RT @jim3love: @BBCWorld, @BBCAfrica #British govt is arming #Buhari and zoo govt with weapons for killing innocent #Biafrans .
+818437766363148288	chikaodibiafra		RT @jim3love: #TyrantBuhari &amp; his killer squard, #DSS must stop kidnapping &amp; Killing #poor &amp; #innocent #Biafrans. Stand up &amp; defend #Biafra…
+3369332271	dave31_sam	IPOB	RT @jim3love: #Biafrans, run away from yorobber criminal churches &amp; occultic pastors. Bow not before any yorobber pastor. They re fake. Hel…
+3381369753	ChiukwuE	Whiter than white whiter than snow	RT @jim3love: @Netanyahu #Buhari and his zoo police and army are killing innocent #Biafrans in Aba #Biafraland.
+3261123452	nwakpa_gabriel		RT @jim3love: #No secret trial, #No masquerade witnesses. #Free #NnamdiKanu, other #Biafrans. #FreeBiafra.
+#StopBiafrakillings.
+@netanyahu…
+3781568116	NwachukwuChuk17		RT @jim3love: @CNN, @FoxNews , #SelfDetermination is a universal law. So, #Biafrans ve right to restore #Biafra. #FreeBiafra. https://t.co/…
+4830802786	AkaAbiama		RT @jim3love: #Biafrans will mark President Trump inauguration with pomp &amp; pageantry. #Igweocha (PortHarcourt) #Biafra land is d venue. #Bi…
+3588986417	NkemdiMary		RT @jim3love: Queen Elizabeth of England supplied Yakubu Gowon war planes with which they bombed #Biafra hospitals &amp; markets b/w 1966-1970.…
+808265609125523456	ChuksBen12	Goals Don't Lie. #Baifra is divine, #Baifra is an Ideology, Period.	RT @jim3love: The reason I was born is to help restore #Biafra. And I will live to ensure #Biafra is completely restored. All hail #Biafra.
+3381540185	biafraone	Love CHUKWUOKIKEABIAMA and all that HE created, I  preach Love and that Love is my beautiful Nation BIAFRA.
+Free NNAMDI KANU Free BIAFRA	RT @jim3love: @realDonaldTrump, d whereabouts of these #Biafrans /#IPOB members re not known. #DSS kidnapped them. https://t.co/x789YPWJBx
+4158185058	AdaIgnatus	Never Give up	RT @jim3love: #DictatorBuhari &amp; his sister will loose this case against Mazi #NnamdiKanu woefully. #Biafra has emerged. No going back. All…
+3389161150	sochimaokwukao1		RT @jim3love: #Biafra is my religion, #RadioBiafra is where I worship &amp; #ChukwuOkikeAbhiama is my God. #Biafra or death. #Free #NnamdiKanu…
+3041545037	osougwu		RT @jim3love: The zoo &amp; contraption called niGEria has expired. Help restore #Biafra. #Biafra is d way forward. It is #Biafra or death.
+3910405223	ifeomaohaeri		RT @jim3love: #Biafrans defeated many enemies in 2016. In 2017, we shall defeat d remaining enemies &amp; restore #Biafra. Stand up &amp; say I am…
+301579240	onyematomorrow	Blame British Government for coming to Africa in 1914 to create a complex satanic entity called Nigeria forced nations to live together.	RT @jim3love: @mike_pence , Moses Agbo a member of #IPOB family writers has been kidnapped by niGEria #DSS on d order of Muhammadu Buhari.…
+4708738936	AmajuoyiPaul		RT @jim3love: #Biafrans re expecting to be in Abuja high court tomorrow 12/01/17, as Mazi #NnamdiKanu continue to expose d zoo niGEria to d…
+3260184109	kingsle09615114		RT @jim3love: No matter d manner of preaching #TyrantBuhari, Orantung OBJ &amp; other awusa/foolani &amp; coward yorobber will come with, #Biafra h…
+786180505150578688	sundayobaji1		RT @jim3love: @mike_pence , Moses Agbo a member of #IPOB family writers has been kidnapped by niGEria #DSS on d order of Muhammadu Buhari.…
+715988903732359169	SNnanyelug		RT @jim3love: Queen Elizabeth &amp; #British Gov was d reason Yakubu Gowon &amp; Obafemi Awolowo murdered 6 million #Biafrans in cold blood. #FreeB…
+275545660	Princemezy		RT @jim3love: Today 12/01/17, #IPOB/#NnamdiKanu will continue shaming, disgracing &amp; exposing #DictatorBuhari, Injustice Nkita Nyako &amp; zoo n…
+1568791543	josephakani		RT @jim3love: Queen Elizabeth of England supplied Yakubu Gowon war planes with which they bombed #Biafra hospitals &amp; markets b/w 1966-1970.…
+3340701033	aniekwe_edmund		RT @jim3love: Come to Abuja high court tomorrow 12/01/17 to see yourself why the expired niGEria is a zoo. #Free #NnamdiKanu, other #Biafra…
+729759262830960648	Frankli78566744		RT @jim3love: I am a #Biafran. #Biafra is my homeland, nation &amp; country. I am not a #Biafra supporter or pro-Biafra. #Biafra is my name. #F…
+796016305669292033	kingsenwerem	I am a hadcore Biafran under the leadership of Mazi Nnamdi Kanu.	RT @jim3love: #British Gov must pay for authorizing &amp; sponsoring d murder of 6 million #Biafrans. #British Gov must face d consquencies. #F…
+3353181339	goodluckaminwa		RT @jim3love: @UKHomeoffice #Buhari and his zoo police and army are illing #Biafrans in Aba #Biafraland.
+4040997615	GPortion3		RT @jim3love: As Mazi #NnamdiKanu appear in court on 10/01/17, we #Biafrans say #No to secret trial &amp; #No to masquerades witnesses. #Biafra…
+798739433293918208	CollinsChinons8		RT @jim3love: #Free #NnamdiKanu, other #Biafrans, #FreeBiafra.
+Say #No to secret trial, say #No to masquerades as witnesses. 
+#StopBiafraki…
+4257408075	UCHENNACHIJIOK8	An Educationist, A teacher and a hard core Biafran Activist. Nnamdi Kanu's follower.	RT @jim3love: Queen Elizabeth of England &amp; Harold Wilson supplied Yakubu Gowon with weapons with which he slaughtered 6 million #Biafrans b…
+3020332941	if_chukwu	I m a #Baifra,we are here to restore #Biafra	RT @jim3love: We must continue. No matter d amount of arsenals at d disposal of #PedophileBuhari, #Biafra must be restored fully in 2017. #…
+3402097235	emmadon_link	#Human Rights Campaign: strengthening the promotion and protection of equal human rights and Justice around the globe.	RT @jim3love: We must win this war. The zoo niGEria Gov &amp; #British Gov can never get away with this. 
+#Biafra or death.
+2883811367	Yabua728	Am so good	RT @jim3love: Jihadist &amp; Islamic Barack Hussein Obama is d founder &amp; chief financier of #ISISI. He is a… https://t.co/7wod822NvB
+1207446608	nwezeprince16		RT @jim3love: The evil #British Gov must apologize &amp; make #reparation for murdering 6 million #Biafrans in collaboration with Yakubu Gowon.…
+2417594054	Raphael03517065		RT @jim3love: Queen Elizabeth of England authorized &amp; participated in murdering of 6 million #Biafrans b/w 1966-1970. 
+#StopBiafrakillings.…
+767336404191997952	FrankBest208	Fighting against injustices	RT @jim3love: #Biafra is my religion, #RadioBiafra is where I worship #ChukwuOkikeAbhiama is my God. #Free #NnamdiKanu, #Biafra. #Biafra or…
+754429577200603136	IPOB_LEEDS_BRAD	We are here to Restore Our Beloved Home-Land BIAFRA	RT @jim3love: #Free #NnamdiKanu, #FreeBiafra.
+#NosecretTrial, #No masquerade witnesses. 
+#StopBiafrakillings.
+#Biafra or death.
+571586598	chimdiya1	Working assiduously and unrelentingly for the restoration of #Biafra Republic under #IPOB.	RT @chimdiya1: @RepEdWhitfield We, the Indigenous People of Biafra #IPOB urge you to support restoration of #Biafra Republic championed by …
+781711046960709632	SylvesterOhobu	Character	RT @jim3love: The leader of #IPOB/#Biafrans Mazi #NnamdiKanu will appear in court tomorrow being 10/01/17 to expose d expired zoo niGEria m…
+2767091476	burger04kings		RT @jim3love: #No secret Trial. #No masquerade witnesses. 
+#Free #NnamdiKanu &amp; other #Biafrans. #FreeBiafra.
+#StopBiafrakillinhs. #Biafra o…
+805106744187883521	Royal09405228		RT @jim3love: Awusa/foolani are mass murderers. That is why #Biafra must be restored. Vanguard News Nigeria https://t.co/T4P23jxC1S
+792889476859174913	Chimike11	I am a child of God and a formidable BIAFRAN	RT @jim3love: Mazi #NnamdiKanu, d leader of #IPOB/#Biafra will be in court today 10/01/17 to continue 2 expose d expired zoo &amp; contraption…
+765878170922909700	EmmaIfeanyi7	love	RT @jim3love: #Free #NnamdiKanu, other #Biafrans, #FreeBiafra.
+Say #No to secret trial, say #No to masquerades as witnesses. 
+#StopBiafraki…
+803516165297315840	ChinagoUchechu1	Biafra is all we want and only that makes me happy as a freeman and as a free person than zoo called nigeria, where human rights are been violated.	RT @jim3love: These re pictures of #IPOB members kidnapped by d zoo niGEria #DSS whose whereabouts re unknown. #FreeBiafra. https://t.co/Gv…
+776087488771133440	iganga_sunday		RT @jim3love: #DictatorBuhari d African #Hitler &amp; #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free #Biafra. @AmnestyIsrael , @Amnest…
+3041510741	Okeynnadi1		RT @jim3love: The leader of #IPOB/#Biafrans Mazi #NnamdiKanu will appear in court tomorrow being 10/01/17 to expose d expired zoo niGEria m…
+794349664267018240	onyi_madu	News	RT @jim3love: The zoo niGEria is a #terrorist state. #TyrantBuhari &amp; his #DSS kidnapped &amp; killed 9 #Biafrans who visited Mazi #NnamdiKanu i…
+2425626988	ChukwumaChuma		RT @jim3love: @CNN The terrorist and pedophile muhammadu buhari is committing #Genocide right now in #Aba #Biafraland.
+798916201766387712	FidelisOkafor4		RT @jim3love: #Biafrans re expecting to be in Abuja high court tomorrow 12/01/17, as Mazi #NnamdiKanu continue to expose d zoo niGEria to d…
+4351950015	chrisokafor1983	Honesty&Truthfulness is d greatest weapon 4 a happy life.Biafra is my religion,don't deprive me of my right.Peace&justice#FreeBiafra #BIAFREXIT #FreeNnamdikanu	RT @jim3love: #Free #NnamdiKanu, #FreeBiafra.
+#NosecretTrial, #No masquerade witnesses. 
+#StopBiafrakillings. 
+#Biafra or death.
+3430357269	cwonderboy1968		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+2760546520	VintechG		RT @jim3love: Olusegun Obasanjo d yorobber criminal extraordinaire has no right to bring his satanic message to #Biafrans. We re in #Biafra…
+810503674527150085	UprightBiafra	Always doing it right.	RT @jim3love: I was born to help restore #Biafra &amp; I will live to restore #Biafra. #Biafra d Kingdom of #ChukwuOkikeAbhiama on earth has co…
+770399359464857601	omebiafra	BIAFRA NEWS BIAFRA NEWS	RT @jim3love: Injustice Nkita Nyako &amp; #DictatorBuhari has no evidence &amp; witness against Mazi #NnamdiKanu &amp; other #Biafrans. At d end, they'…
+3341790820	elly_ify		RT @elly_ify: @maziehirono, 21 Million #Biafrans will hit Igweocha/PortHarcourt on 20-01-2017 in solidarity Support to Trump. https://t.co/…
+717437595823775744	IPOBPILL		RT @IPOBPILL: House of Republican #IPOB Coalition. Free   #Nnamdi #Kanu is the bottom line,Stop #UK #Queen Mary Windsor Alexandra…
+3342676102	chukwuebukann11		RT @jim3love: @mike_pence , Moses Agbo a member of #IPOB family writers has been kidnapped by niGEria #DSS on d order of Muhammadu Buhari.…
+772974181344477184	obumchris2		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+763184369729171456	umehizuh73	Biafra is all i do all day every day... LOVE MY COUNTRY BIAFRA WITH ALL MY LIFE.	RT @jim3love: Queen Elizabeth of England &amp; #Britain  re evil. Bcos of crude oil in #Biafra land, #British Gov wants to wipe #Biafrans out.…
+714853123425189888	eberechukwu67		RT @jim3love: #TyrantBuhari d Africa #Hitler is kidnapping &amp; Killing #poor #Biafrans. Stand up &amp; defend d right of #Biafrans to #SelfDeterm…
+2587627947	ejinechi		RT @jim3love: My home land is #Biafra. My nation/country is BIAFRA. God , Chukwu Okike Abhima bless BIAFRA. Iseeeee.
+3340758256	ChumaIke		RT @jim3love: #DictatorBuhari &amp; his sister will loose this case against Mazi #NnamdiKanu woefully. #Biafra has emerged. No going back. All…
+793744386538504192	MAZIOBIBOND1	I AM A BIAFRA SON , &  I AM A COMPLETE BIAFRA BLOOD ,  HARD CORE BIAFRA ,  &  PLs ,  AM NOT A NIGERIA ,	RT @jim3love: President Trump, #Biafrans /#IPOB welcome u as u takes over d reign of power in God's own country, America. #Biafrans love u.…
+781589387788357632	OgoloEmmanuel5		RT @jim3love: Queen Elizabeth of England &amp; Harold Wilson supplied zoo Gov war planes with which they bombed #Biafran refugee camps. Shame o…
+3394457277	RidgCharles		RT @jim3love: Queen Elizabeth of England authorized &amp; supported d starving of 2 million #Biafran children to death b/w 1966-1970. Queen's a…
+3367764785	IbehRev		RT @jim3love: The name #nigeria is synonymous to massive corruption and death. Say no to the evil called nigeria. #RadioBiafra.
+804004863524880385	Biafrason123		RT @jim3love: Today 12/01/17 is another day as Mazi #NnamdiKanu continue to shame &amp; expose #PedophileBuhari d African #Hitler. #FreeBiafra.
+780710925724553216	allwewantisbiaf		RT @jim3love: Queen Elizabeth of England authorized &amp; supported d starving of 2 million #Biafran children to death b/w 1966-1970. Queen's a…
+725349150267703296	Kene1010	No cntry wil hv rest or peace until Biafra is restord, 2 shw d world dt we re childrn of Gad son of (Jacob and Leah), evry cntries ought 2 talk abt Biafra.	RT @jim3love: We will ensure dat #PedophileBuhari does not ve his way. #NO secret trial, #NO masquerade witness. 
+#Free #NnamdiKanu, others…
+32827251	chaimo	i love my self and people around me so much, becos God lovs us;	RT @jim3love: The zoo niGEria #DSS &amp; soldiers barred journalists from entering court as Mazi #NnamdiKanu appears in court today 10/01/17.
+2568476061	simonbaifra		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+810150392411656192	mpempechinonso	My name is mpempe chinonso, I am a hard core biafran I love my leader Nnamdi kanu	RT @jim3love: The earlier Injustice Nkita Nyako withdraw from #NnamdiKanu/#IPOB case the better for her. No enemy of #Biafra will prosper.…
+779247830892441600	Kwadoisaac07		RT @jim3love: #Biafra was  created by God &amp; it is legal. The expired zoo niGEria was created by Satan &amp; it is illegal. Stand up &amp; help free…
+764955840340168704	GODSWILLAKPAN16		RT @jim3love: #Biafra's emerged. #DictatorBuhari is fighting 4 nothing. Everything is in favour of #Biafrans. Enemies of #Biafra re falling…
+755505578210885636	Onyedaddy		RT @jim3love: #Biafrans re expecting to be in Abuja high court tomorrow 12/01/17, as Mazi #NnamdiKanu continue to expose d zoo niGEria to d…
+3431954837	NwaChineke01		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+2228630154	ChuksOkay		RT @jim3love: #Biafrans, continue. Don't look back, we re on d winning side. #Biafra has emerged. Stand up &amp; be counted. #Biafra or death.
+811528535722565632	humble_chima		RT @jim3love: These #Biafrans were abducted by d zoo niGEria #DSS. And their whereabouts is not known right now. https://t.co/liHYg7bxj0
+766410538146562049	TimothErugo	Football	RT @jim3love: Every #Biafran must prepare 2 double effort this year 2017 bcos we can't afford 2 relax. We must do everything possible to re…
+819279456611299328	EkehMgbe		RT @jim3love: 2017 is a year dat #Biafra will be completely restored. We must continue. Nothing is stopping us. All hail #Biafra.
+4863727053	josydollar33	Am a simple man by nature.	RT @josydollar33: "@EmekaGift: @RepMikeRogers, America must question Nigerian govt on the assassination of #ChuksOkebata US Army Veteran fe…
+4128717250	IPOBinSweden		RT @jim3love: #Biafrans re formidable, resolute &amp; relentless. We re marching forward. Nothing is stopping d restoration of #Biafra. #Biafra…
+3402437249	Edwardchinenye3		RT @jim3love: #Biafra has come to stay. No force on earth can stop Biafra.
+3357462869	1110cfb85e2a4ff		RT @jim3love: Every enemy of #Biafra is panicking bcos BIAFRA must come. To hell with haters. #RadioBiafra, #IPOB.
+1543592318	dozie_henry		RT @jim3love: The breeze of #Biafran freedom is blowing. #Biafra or death. Vanguard News Nigeria https://t.co/Yd5NsSCk9R
+334090532	IgboProgress	Peace be upon us all, #AMEN #Love #Peace #Unity #Progress #Wisdom #Faith #GOD #Jesus #Christ #Bible #Quote #Hope #Vision #Proverb #Igbo #Africa #Humanity #World	RT @IgboProgress: Pro-#Biafra Group Begins
+Mobilisation For Referendum
+World Wide
+https://t.co/RSv3qXfwcu… @UN
+* Expected result:
+Team and Account info
+773456922758504449	pedroma2712		RT @jim3love: #TyrantBuhari &amp; his killer squard, #DSS must stop kidnapping &amp; Killing #poor &amp; #innocent #Biafrans. Stand up &amp; defend #Biafra…
+715981182375223296	ifezue4u2	All hail Biafra! land of the risi. we are all here to do one thing,and that is to get Biafra. we all must keep moving. Am a Biafran,a freedom fighter. God bless	RT @jim3love: I am a #Biafran. I am not a #Biafra supporter or pro-Biafra but a #Biafran. My homeland, nation &amp; country is #Biafra. #FreeBi…
+818605840102027264	ONYEANUSIBONAV1	#FREEDOM #FIGHTER #BIAFRA #OR #NOTHING #NO #BIAFRA #NO #PEACE #BIAFRA #OR #DEATH #FROM #ANAMBRA #AGULUZIGBO STOCKHOLMSWEDEN BIAFEXIT #REFERENDUM MAZI#NNAMDIKANU	RT @jim3love: #DictatorBuhari ordered his #foolani herdsmen to slaughter #poor people in Kaduna thereby Killing more 800 people. He is a ma…
+3669452654	Kingszybiafra	Doing what I am born for, letting the world no that #BiafraExist
+#FreeBiafra #FreeNnamdiKanu #SupportBiafra #BiafrExit #JusticeForNnamdiKanu	RT @jim3love: @MoscowTimes , #SelfDetermination is a universal law. So, #Biafrans ve right to restore #Biafra. #FreeBiafra. https://t.co/4Q…
+354778701	EmekaGift	Born to do what am doing. #FreeBiafra #Biafra  #Activist, #NnamdiKanu #SupportBiafra #FreeNnamdiKanu #EmekaGift Founder @FamilyWriters1 https://t.co/svXyx8mY9n	RT @EmekaGift: Why is the #UN so consistently anti-Israel? --#TerryPaulson #FreeBiafra #StopBiafraKillings https://t.co/hnho07BQRF… 
+1586941430	uchecy3		RT @jim3love: Queen Elizabeth of England &amp; her Gov armed Yakubu Gowon &amp; Awolowo with war planes with which they killed #Biafran children &amp;…
+797779017311158273	GeorgeIbekwe9	News General News Politics	RT @jim3love: #Biafrans, continue. Don't look back, we re on d winning side. #Biafra has emerged. Stand up &amp; be counted. #Biafra or death.
+4879308394	dekingc32		RT @jim3love: We must continue to expose, shame &amp; disgrace #DictatorBuhari for what he is. #DictatorBuhari is a mass murderer. He must stop…
+3515524635	obitex10105		RT @jim3love: #Free #NnamdiKanu, other #Biafrans, #FreeBiafra.
+#Biafrans ve right to #SelfDetermination.
+#StopBiafrakillings.
+@mashable , @…
+2178797168	cliffiroanya		RT @cliffiroanya: @RepEdRoyce Britain-cum-Nigeria sponsored genocide on #BIAFRA exposed. Watch this: https://t.co/DXsVMmEAGt
+809516012089577472	Ejikeedeh7		RT @jim3love: Stand up &amp; defend d right of #Biafra to #SelfDetermination. Say #No to secret trial, say #No to masquerades witnesses.
+#StopB…
+3350465793	DiksMeks		RT @jim3love: Today 12/01/17 is another day as Mazi #NnamdiKanu continue to shame &amp; expose #PedophileBuhari d African #Hitler. #FreeBiafra.
+2338239848	kaluagwu12	Indigenous People Of Biafra	RT @jim3love: Mazi #NnamdiKanu &amp; other #Biafrans'll never be subjected to secret trial. #NO masquerade will stand before Mazi #NnamdiKanu &amp;…
+742149367562264576	dubeluvky		RT @jim3love: Tell d zoo niGEria #DSS to free these #innocent #Biafrans they kidnapped. No backing down. It is… https://t.co/Z9KmtcVcdI
+760874198084575232	benedict_sam6		RT @jim3love: Tell #PedophileBuhari dat Mazi #NnamdiKanu &amp; other #Biafrans re #innocent &amp; must be freed. #Biafrans ve inalienable right to…
+786525346191388672	ChibuchiBlessed		RT @jim3love: #Biafrans far &amp; near will storm d court tomorrow 10/01/17 to cheer d leader of #IPOB /#Biafra Mazi #NnamdiKanu. Stand up &amp; de…
+804228562697887744	NwaChukwuokike	Biafra is my home!!!!	RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free #Biafra. @cnni , @CNN , @BBCW…
+140178615	chukzy40	A Biafran, Arsenal ⚽️ #StopBiafraKillings #FreeNnamdiKanu #FreeBiafra🙏🙏 #TRUMP #MAGA	RT @jim3love: #TyrantBuhari must stop kidnapping &amp; Killing #innocent #Biafrans. #Biafrans ve inalienable right to #SelfDetermination. #Biaf…
+720116425852108800	nwokolo_leo		RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free #Biafra. @TelegraphNews , @IB…
+2716396878	Amaka_Ekwo	An educator, songwriter and singer. Worship CHUKWU OKIKE ABIAMA. Preach the restoration of Great #Biafra; beautiful African nation. #FreeNnamdiKanu #FreeBiafra	RT @Amaka_Ekwo: @UN_Spokesperson 
+Biafrans can't continue to live with Islamist #terrorists from Northern Nigeria.
+Support… 
+806877672987041792	Emeka07080728		RT @jim3love: #Biafrans will mark President Trump inauguration with pomp &amp; pageantry. #Igweocha (PortHarcourt) #Biafra land is d venue. #Bi…
+801734208817336320	emmysma10655946	biafra is my origin	RT @jim3love: @mike_pence , #DictatorBuhari d zoo niGEria president is kidnapping &amp; Killing #innocent #Biafrans. Help free #Biafra.
+2196753756	godwin_nwaugo		RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS must stop kidnapping &amp; Killing #innocent #Biafrans. Stand up &amp; defend d right of…
+806254171	ONYEANUSIBONAVE	#Single #LifeIsGood (E-Mail-amaaonye4@gmail.com) (From ANAMBRA IN AGULUZIGBO IN BIAFRA LAND) Live in STOCKHIM SWEDEN!
+facebook/Onyeanusi Bonaventure Amanchukwu	RT @jim3love: #Free #NnamdiKanu, other #Biafrans. #FreeBiafra.
+#Biafrans ve inalienable right to #SelfDetermination.
+#StopBoafrakillings.
+@…
+2924527836	Assortedik	Africa voices. Human rights advocate #hra. In love with #Biafra and the Africa culture	RT @jim3love: Tell d zoo niGEria #DSS to free these #innocent #Biafrans they kidnapped. No backing down. It is… https://t.co/Z9KmtcVcdI
+377334328	ejie1enter	Nnamdi Kanu is my hero	RT @jim3love: #TyrantBuhari d #foolani herdsman #terrorist &amp; his killer squard, #DSS must stop kidnapping &amp; Killing #poor #Biafrans. #Biafr…
+720768068838764544	onyiimma66		RT @jim3love: Mazi #NnamdiKanu &amp; other #Biafrans'll never be subjected to secret trial. #NO masquerade will stand before Mazi #NnamdiKanu &amp;…
+544874430	kingsley198527	Biafra	RT @jim3love: #Biafra is my religion, #RadioBiafra is where I worship&amp; #ChukwuOkikeAbhiama is my God. #Free #NnamdiKanu, other #Biafrans, #…
+1269273930	DonaldOtis2		RT @jim3love: #TyrantBuhari d African #Hitler must stop kidnapping &amp; killing #innocent #Biafrans. #Biafrans ve inalienable right to #SelfDe…
+817511167073472512	TonyUzoma3		RT @jim3love: The #British Gov &amp; d zoo niGEria #DSS re collaborating in kidnapping &amp; assassinating #innocent #Biafrans/#IPOB members. #Free…
+3388863615	IIhetu	freedom for Biafra	RT @jim3love: The case of Mazi #NnamdiKanu d #IPOB/#Biafra leader had been adjourned to 12th Jan, 2017 SD he roared in court. #Biafra or de…
+815130387370283010	RickJon92122176		RT @jim3love: #DictatorBuhari d African #Hitler &amp; his #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free#Biafra. @unfoundation , @UN_S…
+800811627700305920	newchineke4Biaf	I WALK BIAFRA I TALK BIAFRA AND SLEEP BIAFRA MY MISSION IS TO RESTORE BIAFRA UNDER #IPOB LEADS BY MAZI NNAMDI KANU.ALL HAIL BIAFRA	RT @jim3love: Without d weapons from Queen Elizabeth of England Yakubu Gowon &amp; Obafemi Awolowo wouldn't ve killed 6 million #Biafrans b/w 1…
+2873768027	benakabogu	an Oblate of St Benedict and good lover of freedom and a living BIAFRAN! lam a very big friend of ISRAEL!	RT @jim3love: Queen Elizabeth &amp; #British Gov was d reason Yakubu Gowon &amp; Obafemi Awolowo murdered 6 million #Biafrans in cold blood. #FreeB…
+817216481465405442	egbema2000	Binaebi E from Delta state BIAFRA LAND living in Finland permanently	RT @jim3love: #TyrantBuhari &amp; his #DSS re kidnapping &amp; Killing #innocent &amp; poor #Biafrans. Stand up &amp; defend d right of #Biafrans to #SelfD…
+3284207192	Sunny17985220		RT @jim3love: The zoo &amp; contraption (niGEria) has expired. #Biafrans don't need stupid preaching from Satan of Sokoto, thief Obasanjo &amp; #Ty…
+3351077182	nonsoc42		RT @jim3love: #PedophileBuhari d African #Hitler has no business going to fight war in Gambia. He has no democratic credentials. He is a #g…
+713419521055395840	ChChibuike		RT @jim3love: #TyrantBuhari must stop shooting &amp; killing #innocent #Biafrans. #Biafrans ve right to #SelfDetermination. 
+#StopBiafrakilling…
+817379174402949122	anosike120		RT @jim3love: Queen Elizabeth of England has been involving in d Killing of #poor &amp; #innocent #Biafrans since 1966 till death. She is a blo…
+811452746905751552	JideoforBiafra		RT @jim3love: @AmnestySARO , @AmnestyIsrael , #DictatorBuhari d zoo niGEria president must stop kidnapping &amp; Killing #poor #Biafrans. #Free…
+3346461694	emperorromero23		RT @jim3love: #TyrantBuhari d African #Hitler cowardly ran away from #Enugwu #Biafra land yesterday 22/12/16. To hell with d idiot.
+4697451428	Pam_Phillip	For freedom of mankind and green earth.Follow us on breaking news.	RT @jim3love: #DictatorBuhari must stop kidnapping &amp; Killing #innocent #Biafrans. #Biafrans ve inalienable right to #SelfDetermination. #Fr…
+432199946	Coolvitus	What is peace there is no peace without war	RT @jim3love: @BBCWorld, @BBCAfrica #British govt is arming #Buhari and zoo govt with weapons for killing innocent #Biafrans .
+818437766363148288	chikaodibiafra		RT @jim3love: #TyrantBuhari &amp; his killer squard, #DSS must stop kidnapping &amp; Killing #poor &amp; #innocent #Biafrans. Stand up &amp; defend #Biafra…
+3369332271	dave31_sam	IPOB	RT @jim3love: #Biafrans, run away from yorobber criminal churches &amp; occultic pastors. Bow not before any yorobber pastor. They re fake. Hel…
+3381369753	ChiukwuE	Whiter than white whiter than snow	RT @jim3love: @Netanyahu #Buhari and his zoo police and army are killing innocent #Biafrans in Aba #Biafraland.
+3261123452	nwakpa_gabriel		RT @jim3love: #No secret trial, #No masquerade witnesses. #Free #NnamdiKanu, other #Biafrans. #FreeBiafra.
+#StopBiafrakillings.
+@netanyahu…
+3781568116	NwachukwuChuk17		RT @jim3love: @CNN, @FoxNews , #SelfDetermination is a universal law. So, #Biafrans ve right to restore #Biafra. #FreeBiafra. https://t.co/…
+4830802786	AkaAbiama		RT @jim3love: #Biafrans will mark President Trump inauguration with pomp &amp; pageantry. #Igweocha (PortHarcourt) #Biafra land is d venue. #Bi…
+3588986417	NkemdiMary		RT @jim3love: Queen Elizabeth of England supplied Yakubu Gowon war planes with which they bombed #Biafra hospitals &amp; markets b/w 1966-1970.…
+808265609125523456	ChuksBen12	Goals Don't Lie. #Baifra is divine, #Baifra is an Ideology, Period.	RT @jim3love: The reason I was born is to help restore #Biafra. And I will live to ensure #Biafra is completely restored. All hail #Biafra.
+3381540185	biafraone	Love CHUKWUOKIKEABIAMA and all that HE created, I  preach Love and that Love is my beautiful Nation BIAFRA.
+Free NNAMDI KANU Free BIAFRA	RT @jim3love: @realDonaldTrump, d whereabouts of these #Biafrans /#IPOB members re not known. #DSS kidnapped them. https://t.co/x789YPWJBx
+4158185058	AdaIgnatus	Never Give up	RT @jim3love: #DictatorBuhari &amp; his sister will loose this case against Mazi #NnamdiKanu woefully. #Biafra has emerged. No going back. All…
+3389161150	sochimaokwukao1		RT @jim3love: #Biafra is my religion, #RadioBiafra is where I worship &amp; #ChukwuOkikeAbhiama is my God. #Biafra or death. #Free #NnamdiKanu…
+3041545037	osougwu		RT @jim3love: The zoo &amp; contraption called niGEria has expired. Help restore #Biafra. #Biafra is d way forward. It is #Biafra or death.
+3910405223	ifeomaohaeri		RT @jim3love: #Biafrans defeated many enemies in 2016. In 2017, we shall defeat d remaining enemies &amp; restore #Biafra. Stand up &amp; say I am…
+301579240	onyematomorrow	Blame British Government for coming to Africa in 1914 to create a complex satanic entity called Nigeria forced nations to live together.	RT @jim3love: @mike_pence , Moses Agbo a member of #IPOB family writers has been kidnapped by niGEria #DSS on d order of Muhammadu Buhari.…
+4708738936	AmajuoyiPaul		RT @jim3love: #Biafrans re expecting to be in Abuja high court tomorrow 12/01/17, as Mazi #NnamdiKanu continue to expose d zoo niGEria to d…
+3260184109	kingsle09615114		RT @jim3love: No matter d manner of preaching #TyrantBuhari, Orantung OBJ &amp; other awusa/foolani &amp; coward yorobber will come with, #Biafra h…
+786180505150578688	sundayobaji1		RT @jim3love: @mike_pence , Moses Agbo a member of #IPOB family writers has been kidnapped by niGEria #DSS on d order of Muhammadu Buhari.…
+715988903732359169	SNnanyelug		RT @jim3love: Queen Elizabeth &amp; #British Gov was d reason Yakubu Gowon &amp; Obafemi Awolowo murdered 6 million #Biafrans in cold blood. #FreeB…
+275545660	Princemezy		RT @jim3love: Today 12/01/17, #IPOB/#NnamdiKanu will continue shaming, disgracing &amp; exposing #DictatorBuhari, Injustice Nkita Nyako &amp; zoo n…
+1568791543	josephakani		RT @jim3love: Queen Elizabeth of England supplied Yakubu Gowon war planes with which they bombed #Biafra hospitals &amp; markets b/w 1966-1970.…
+3340701033	aniekwe_edmund		RT @jim3love: Come to Abuja high court tomorrow 12/01/17 to see yourself why the expired niGEria is a zoo. #Free #NnamdiKanu, other #Biafra…
+729759262830960648	Frankli78566744		RT @jim3love: I am a #Biafran. #Biafra is my homeland, nation &amp; country. I am not a #Biafra supporter or pro-Biafra. #Biafra is my name. #F…
+796016305669292033	kingsenwerem	I am a hadcore Biafran under the leadership of Mazi Nnamdi Kanu.	RT @jim3love: #British Gov must pay for authorizing &amp; sponsoring d murder of 6 million #Biafrans. #British Gov must face d consquencies. #F…
+3353181339	goodluckaminwa		RT @jim3love: @UKHomeoffice #Buhari and his zoo police and army are illing #Biafrans in Aba #Biafraland.
+4040997615	GPortion3		RT @jim3love: As Mazi #NnamdiKanu appear in court on 10/01/17, we #Biafrans say #No to secret trial &amp; #No to masquerades witnesses. #Biafra…
+798739433293918208	CollinsChinons8		RT @jim3love: #Free #NnamdiKanu, other #Biafrans, #FreeBiafra.
+Say #No to secret trial, say #No to masquerades as witnesses. 
+#StopBiafraki…
+4257408075	UCHENNACHIJIOK8	An Educationist, A teacher and a hard core Biafran Activist. Nnamdi Kanu's follower.	RT @jim3love: Queen Elizabeth of England &amp; Harold Wilson supplied Yakubu Gowon with weapons with which he slaughtered 6 million #Biafrans b…
+3020332941	if_chukwu	I m a #Baifra,we are here to restore #Biafra	RT @jim3love: We must continue. No matter d amount of arsenals at d disposal of #PedophileBuhari, #Biafra must be restored fully in 2017. #…
+3402097235	emmadon_link	#Human Rights Campaign: strengthening the promotion and protection of equal human rights and Justice around the globe.	RT @jim3love: We must win this war. The zoo niGEria Gov &amp; #British Gov can never get away with this. 
+#Biafra or death.
+2883811367	Yabua728	Am so good	RT @jim3love: Jihadist &amp; Islamic Barack Hussein Obama is d founder &amp; chief financier of #ISISI. He is a… https://t.co/7wod822NvB
+1207446608	nwezeprince16		RT @jim3love: The evil #British Gov must apologize &amp; make #reparation for murdering 6 million #Biafrans in collaboration with Yakubu Gowon.…
+2417594054	Raphael03517065		RT @jim3love: Queen Elizabeth of England authorized &amp; participated in murdering of 6 million #Biafrans b/w 1966-1970. 
+#StopBiafrakillings.…
+767336404191997952	FrankBest208	Fighting against injustices	RT @jim3love: #Biafra is my religion, #RadioBiafra is where I worship #ChukwuOkikeAbhiama is my God. #Free #NnamdiKanu, #Biafra. #Biafra or…
+754429577200603136	IPOB_LEEDS_BRAD	We are here to Restore Our Beloved Home-Land BIAFRA	RT @jim3love: #Free #NnamdiKanu, #FreeBiafra.
+#NosecretTrial, #No masquerade witnesses. 
+#StopBiafrakillings.
+#Biafra or death.
+571586598	chimdiya1	Working assiduously and unrelentingly for the restoration of #Biafra Republic under #IPOB.	RT @chimdiya1: @RepEdWhitfield We, the Indigenous People of Biafra #IPOB urge you to support restoration of #Biafra Republic championed by …
+781711046960709632	SylvesterOhobu	Character	RT @jim3love: The leader of #IPOB/#Biafrans Mazi #NnamdiKanu will appear in court tomorrow being 10/01/17 to expose d expired zoo niGEria m…
+2767091476	burger04kings		RT @jim3love: #No secret Trial. #No masquerade witnesses. 
+#Free #NnamdiKanu &amp; other #Biafrans. #FreeBiafra.
+#StopBiafrakillinhs. #Biafra o…
+805106744187883521	Royal09405228		RT @jim3love: Awusa/foolani are mass murderers. That is why #Biafra must be restored. Vanguard News Nigeria https://t.co/T4P23jxC1S
+792889476859174913	Chimike11	I am a child of God and a formidable BIAFRAN	RT @jim3love: Mazi #NnamdiKanu, d leader of #IPOB/#Biafra will be in court today 10/01/17 to continue 2 expose d expired zoo &amp; contraption…
+765878170922909700	EmmaIfeanyi7	love	RT @jim3love: #Free #NnamdiKanu, other #Biafrans, #FreeBiafra.
+Say #No to secret trial, say #No to masquerades as witnesses. 
+#StopBiafraki…
+803516165297315840	ChinagoUchechu1	Biafra is all we want and only that makes me happy as a freeman and as a free person than zoo called nigeria, where human rights are been violated.	RT @jim3love: These re pictures of #IPOB members kidnapped by d zoo niGEria #DSS whose whereabouts re unknown. #FreeBiafra. https://t.co/Gv…
+776087488771133440	iganga_sunday		RT @jim3love: #DictatorBuhari d African #Hitler &amp; #DSS re kidnapping &amp; Killing #poor #Biafrans. Help free #Biafra. @AmnestyIsrael , @Amnest…
+3041510741	Okeynnadi1		RT @jim3love: The leader of #IPOB/#Biafrans Mazi #NnamdiKanu will appear in court tomorrow being 10/01/17 to expose d expired zoo niGEria m…
+794349664267018240	onyi_madu	News	RT @jim3love: The zoo niGEria is a #terrorist state. #TyrantBuhari &amp; his #DSS kidnapped &amp; killed 9 #Biafrans who visited Mazi #NnamdiKanu i…
+2425626988	ChukwumaChuma		RT @jim3love: @CNN The terrorist and pedophile muhammadu buhari is committing #Genocide right now in #Aba #Biafraland.
+798916201766387712	FidelisOkafor4		RT @jim3love: #Biafrans re expecting to be in Abuja high court tomorrow 12/01/17, as Mazi #NnamdiKanu continue to expose d zoo niGEria to d…
+4351950015	chrisokafor1983	Honesty&Truthfulness is d greatest weapon 4 a happy life.Biafra is my religion,don't deprive me of my right.Peace&justice#FreeBiafra #BIAFREXIT #FreeNnamdikanu	RT @jim3love: #Free #NnamdiKanu, #FreeBiafra.
+#NosecretTrial, #No masquerade witnesses. 
+#StopBiafrakillings. 
+#Biafra or death.
+3430357269	cwonderboy1968		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+2760546520	VintechG		RT @jim3love: Olusegun Obasanjo d yorobber criminal extraordinaire has no right to bring his satanic message to #Biafrans. We re in #Biafra…
+810503674527150085	UprightBiafra	Always doing it right.	RT @jim3love: I was born to help restore #Biafra &amp; I will live to restore #Biafra. #Biafra d Kingdom of #ChukwuOkikeAbhiama on earth has co…
+770399359464857601	omebiafra	BIAFRA NEWS BIAFRA NEWS	RT @jim3love: Injustice Nkita Nyako &amp; #DictatorBuhari has no evidence &amp; witness against Mazi #NnamdiKanu &amp; other #Biafrans. At d end, they'…
+3341790820	elly_ify		RT @elly_ify: @maziehirono, 21 Million #Biafrans will hit Igweocha/PortHarcourt on 20-01-2017 in solidarity Support to Trump. https://t.co/…
+717437595823775744	IPOBPILL		RT @IPOBPILL: House of Republican #IPOB Coalition. Free   #Nnamdi #Kanu is the bottom line,Stop #UK #Queen Mary Windsor Alexandra… 
+3342676102	chukwuebukann11		RT @jim3love: @mike_pence , Moses Agbo a member of #IPOB family writers has been kidnapped by niGEria #DSS on d order of Muhammadu Buhari.…
+772974181344477184	obumchris2		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+763184369729171456	umehizuh73	Biafra is all i do all day every day... LOVE MY COUNTRY BIAFRA WITH ALL MY LIFE.	RT @jim3love: Queen Elizabeth of England &amp; #Britain  re evil. Bcos of crude oil in #Biafra land, #British Gov wants to wipe #Biafrans out.…
+714853123425189888	eberechukwu67		RT @jim3love: #TyrantBuhari d Africa #Hitler is kidnapping &amp; Killing #poor #Biafrans. Stand up &amp; defend d right of #Biafrans to #SelfDeterm…
+2587627947	ejinechi		RT @jim3love: My home land is #Biafra. My nation/country is BIAFRA. God , Chukwu Okike Abhima bless BIAFRA. Iseeeee.
+3340758256	ChumaIke		RT @jim3love: #DictatorBuhari &amp; his sister will loose this case against Mazi #NnamdiKanu woefully. #Biafra has emerged. No going back. All…
+793744386538504192	MAZIOBIBOND1	I AM A BIAFRA SON , &  I AM A COMPLETE BIAFRA BLOOD ,  HARD CORE BIAFRA ,  &  PLs ,  AM NOT A NIGERIA ,	RT @jim3love: President Trump, #Biafrans /#IPOB welcome u as u takes over d reign of power in God's own country, America. #Biafrans love u.…
+781589387788357632	OgoloEmmanuel5		RT @jim3love: Queen Elizabeth of England &amp; Harold Wilson supplied zoo Gov war planes with which they bombed #Biafran refugee camps. Shame o…
+3394457277	RidgCharles		RT @jim3love: Queen Elizabeth of England authorized &amp; supported d starving of 2 million #Biafran children to death b/w 1966-1970. Queen's a…
+3367764785	IbehRev		RT @jim3love: The name #nigeria is synonymous to massive corruption and death. Say no to the evil called nigeria. #RadioBiafra.
+804004863524880385	Biafrason123		RT @jim3love: Today 12/01/17 is another day as Mazi #NnamdiKanu continue to shame &amp; expose #PedophileBuhari d African #Hitler. #FreeBiafra.
+780710925724553216	allwewantisbiaf		RT @jim3love: Queen Elizabeth of England authorized &amp; supported d starving of 2 million #Biafran children to death b/w 1966-1970. Queen's a…
+725349150267703296	Kene1010	No cntry wil hv rest or peace until Biafra is restord, 2 shw d world dt we re childrn of Gad son of (Jacob and Leah), evry cntries ought 2 talk abt Biafra.	RT @jim3love: We will ensure dat #PedophileBuhari does not ve his way. #NO secret trial, #NO masquerade witness. 
+#Free #NnamdiKanu, others…
+32827251	chaimo	i love my self and people around me so much, becos God lovs us;	RT @jim3love: The zoo niGEria #DSS &amp; soldiers barred journalists from entering court as Mazi #NnamdiKanu appears in court today 10/01/17.
+2568476061	simonbaifra		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+810150392411656192	mpempechinonso	My name is mpempe chinonso, I am a hard core biafran I love my leader Nnamdi kanu	RT @jim3love: The earlier Injustice Nkita Nyako withdraw from #NnamdiKanu/#IPOB case the better for her. No enemy of #Biafra will prosper.…
+779247830892441600	Kwadoisaac07		RT @jim3love: #Biafra was  created by God &amp; it is legal. The expired zoo niGEria was created by Satan &amp; it is illegal. Stand up &amp; help free…
+764955840340168704	GODSWILLAKPAN16		RT @jim3love: #Biafra's emerged. #DictatorBuhari is fighting 4 nothing. Everything is in favour of #Biafrans. Enemies of #Biafra re falling…
+755505578210885636	Onyedaddy		RT @jim3love: #Biafrans re expecting to be in Abuja high court tomorrow 12/01/17, as Mazi #NnamdiKanu continue to expose d zoo niGEria to d…
+3431954837	NwaChineke01		RT @jim3love: The zoo niGEria #DSS abducted #MosesAgbo a #Biafran journalist while on his way to visit Mazi #NnamdiKanu on 25 Dec, 2016. #F…
+2228630154	ChuksOkay		RT @jim3love: #Biafrans, continue. Don't look back, we re on d winning side. #Biafra has emerged. Stand up &amp; be counted. #Biafra or death.
+811528535722565632	humble_chima		RT @jim3love: These #Biafrans were abducted by d zoo niGEria #DSS. And their whereabouts is not known right now. https://t.co/liHYg7bxj0
+766410538146562049	TimothErugo	Football	RT @jim3love: Every #Biafran must prepare 2 double effort this year 2017 bcos we can't afford 2 relax. We must do everything possible to re…
+819279456611299328	EkehMgbe		RT @jim3love: 2017 is a year dat #Biafra will be completely restored. We must continue. Nothing is stopping us. All hail #Biafra.
+4863727053	josydollar33	Am a simple man by nature.	RT @josydollar33: "@EmekaGift: @RepMikeRogers, America must question Nigerian govt on the assassination of #ChuksOkebata US Army Veteran fe…
+4128717250	IPOBinSweden		RT @jim3love: #Biafrans re formidable, resolute &amp; relentless. We re marching forward. Nothing is stopping d restoration of #Biafra. #Biafra…
+3402437249	Edwardchinenye3		RT @jim3love: #Biafra has come to stay. No force on earth can stop Biafra.
+3357462869	1110cfb85e2a4ff		RT @jim3love: Every enemy of #Biafra is panicking bcos BIAFRA must come. To hell with haters. #RadioBiafra, #IPOB.
+1543592318	dozie_henry		RT @jim3love: The breeze of #Biafran freedom is blowing. #Biafra or death. Vanguard News Nigeria https://t.co/Yd5NsSCk9R
+334090532	IgboProgress	Peace be upon us all, #AMEN #Love #Peace #Unity #Progress #Wisdom #Faith #GOD #Jesus #Christ #Bible #Quote #Hope #Vision #Proverb #Igbo #Africa #Humanity #World	RT @IgboProgress: Pro-#Biafra Group Begins
+Mobilisation For Referendum
+World Wide
+https://t.co/RSv3qXfwcu… @UN
+
+
